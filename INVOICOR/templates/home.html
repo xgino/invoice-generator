@@ -1,0 +1,33 @@
+{% load i18n %}  {# <-- important to enable {% trans %} #}
+<!DOCTYPE html>
+<html lang="{{ LANGUAGE_CODE }}">
+<head>
+    <meta charset="UTF-8">
+    <title>{% trans "Free Online Invoice Generator" %}</title>
+    <meta name="description" content="{% trans "Create professional invoices online in multiple languages and currencies." %}">
+</head>
+<body>
+    <header>
+        <h1>{% trans "Welcome to Your Invoice Generator" %}</h1>
+        <p>{% trans "Generate invoices quickly and easily." %}</p>
+        
+        <!-- Language switcher -->
+        <nav>
+            <ul>
+                <li><a href="/en/">{% trans "English" %}</a></li>
+                <li><a href="/fr/">{% trans "Français" %}</a></li>
+                <li><a href="/de/">{% trans "Deutsch" %}</a></li>
+                <li><a href="/nl/">{% trans "Nederlands" %}</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>{% trans "Start Creating Your Invoice" %}</h2>
+            <p>{% blocktrans %}Your default currency is {{ currency }}.{% endblocktrans %}</p>
+            <a href="{% url 'invoice' invoice_slug='default-invoice' %}">{% trans "Create Invoice" %}</a>
+        </section>
+    </main>
+</body>
+</html>

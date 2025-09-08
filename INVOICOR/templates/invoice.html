@@ -1,0 +1,20 @@
+{% load i18n %}
+<!DOCTYPE html>
+<html lang="{{ LANGUAGE_CODE }}">
+<head>
+    <meta charset="UTF-8">
+    <title>{% trans "Invoice" %} - {{ invoice_slug }}</title>
+    <meta name="description" content="{% trans "View and edit your invoice in your selected language and currency." %}">
+</head>
+<body>
+    <header>
+        <h1>{% trans "Invoice Details" %}</h1>
+        <p>{% blocktrans %}Currency: {{ currency }}{% endblocktrans %}</p>
+    </header>
+
+    <main>
+        <p>{% blocktrans with slug=invoice_slug %}You are viewing invoice {{ slug }}.{% endblocktrans %}</p>
+        <!-- invoice content here -->
+    </main>
+</body>
+</html>
