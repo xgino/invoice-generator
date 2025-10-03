@@ -28,6 +28,7 @@ Second plan
 # Issues
 - Not Able to go beyond Page 1 to generate.
 - Download sometimes is weird, need to download second time to get good one.
+- Sometimes the invoice breaks, perhaps due to DOM
 
 
 # Later:
