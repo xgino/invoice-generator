@@ -1,0 +1,97 @@
+<!-- CONTROLS -->
+<nav class="navbar sticky-top border-bottom"
+    style="background:#f8f9fa;border-radius:0.375rem;padding:6px 8px;font-size:0.88rem;">
+    <div class="container-fluid d-flex flex-wrap align-items-center gap-2">
+
+        <!-- Buttons group (self-explanatory) -->
+        <div class="d-flex align-items-center gap-1">
+            <button id="reset-btn" onclick="location.reload()" class="btn btn-outline-danger btn-sm">Reset</button>
+            <button id="table-add" type="button" class="btn btn-sm btn-outline-primary">Add Row</button>
+            <button id="table-remove" type="button" class="btn btn-sm btn-outline-secondary">Remove Last</button>
+        </div>
+
+        <!-- Accent -->
+        <div class="d-flex flex-column align-items-start me-2" style="min-width:54px;">
+            <input type="color" id="colorPicker" value="#2563eb" class="form-control form-control-color p-0"
+                style="width:42px;height:28px;cursor:pointer;border:none;" />
+            <small id="accent-btn" class="text-muted" style="font-size:0.65rem;margin-top:4px;">Accent</small>
+        </div>
+
+        <!-- Logo -->
+        <div class="d-flex flex-column align-items-start me-2" style="min-width:100px;">
+            <input type="file" id="logoUpload" class="form-control form-control-sm" accept="image/*"
+                style="max-width:140px;padding:.15rem .35rem;" />
+            <small id="logo-btn" class="text-muted" style="font-size:0.65rem;margin-top:4px;">Logo</small>
+        </div>
+
+        <!-- Currency -->
+        <div class="d-flex flex-column align-items-start me-2" style="min-width:72px;">
+            <select id="currencySelect" class="form-select form-select-sm" style="width:auto;">
+                <option value="EUR" selected>EUR €</option>
+                <option value="USD">USD $</option>
+                <option value="GBP">GBP £</option>
+            </select>
+            <small id="currency-btn" class="text-muted" style="font-size:0.65rem;margin-top:4px;">Currency</small>
+        </div>
+
+        <!-- Language -->
+        <div class="d-flex flex-column align-items-start me-2" style="min-width:56px;">
+            <select id="langSelect" class="form-select form-select-sm" style="width:auto;">
+                <option value="en" selected>EN</option>
+                <option value="nl">NL</option>
+                <option value="de">DE</option>
+                <option value="fr">FR</option>
+            </select>
+            <small id="language-btn" class="text-muted" style="font-size:0.65rem;margin-top:4px;">Language</small>
+        </div>
+
+        <!-- Theme -->
+        <div class="d-flex flex-column align-items-start me-2" style="min-width:78px;">
+            <select id="themeSelect" class="form-select form-select-sm" style="width:auto;">
+                <option value="classic" selected>Classic</option>
+                <option value="ocean">Ocean</option>
+                <option value="amber">Amber</option>
+                <option value="charcoal">Charcoal</option>
+                <option value="emerald">Emerald</option>
+                <option value="rose">Rose</option>
+                <option value="slate">Slate</option>
+                <option value="violet">Violet</option>
+                <option value="copper">Copper</option>
+                <option value="forest">Forest</option>
+            </select>
+            <small id="theme-btn" class="text-muted" style="font-size:0.65rem;margin-top:4px;">Theme</small>
+        </div>
+
+        <!-- Number format -->
+        <div class="d-flex flex-column align-items-start me-2" style="min-width:110px;">
+            <select id="formatSelect" class="form-select form-select-sm" style="width:auto;">
+                <option value="de-DE" selected>EU (1.234,56)</option>
+                <option value="en-US">US (1,234.56)</option>
+                <option value="en-GB">UK (1,234.56)</option>
+                <option value="fr-FR">FR (1 234,56)</option>
+                <option value="de-CH">CH (1'234.56)</option>
+            </select>
+            <small id="format-btn" class="text-muted" style="font-size:0.65rem;margin-top:4px;">Format</small>
+        </div>
+
+        <!-- Tax -->
+        <div class="d-flex flex-column align-items-start me-2" style="min-width:120px;">
+            <div class="d-flex align-items-center gap-1">
+                <input type="number" id="taxInput" class="form-control form-control-sm" value="21" min="0" max="100"
+                    step="1" style="width:64px;padding:.2rem .35rem;" />
+                <span style="font-size:0.85rem;">%</span>
+                <select id="taxMode" class="form-select form-select-sm" style="width:auto;">
+                    <option id="exclude-btn" value="exclude" selected>Excl.</option>
+                    <option id="include-btn" value="include">Incl.</option>
+                </select>
+            </div>
+            <small id="tax-btn" class="text-muted" style="font-size:0.65rem;margin-top:4px;">Tax</small>
+        </div>
+
+        <!-- Download (right) -->
+        <div class="d-flex flex-column align-items-end ms-auto">
+            <button id="btn-download" class="btn btn-primary btn-sm">Download</button>
+            <!-- <small class="text-muted" style="font-size:0.65rem;margin-top:4px;">Download</small> -->
+        </div>
+    </div>
+</nav>

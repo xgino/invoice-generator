@@ -1,17 +1,100 @@
-{% load i18n %}  {# <-- important to enable {% trans %} #}
+{% load i18n %}
 <!DOCTYPE html>
 <html lang="{{ LANGUAGE_CODE }}">
+
 <head>
     <meta charset="UTF-8">
-    <title>{% trans "Free Online Invoice Generator" %}</title>
-    <meta name="description" content="{% trans "Create professional invoices online in multiple languages and currencies." %}">
+    <title>{% trans "Free Online Invoice Generator – Create Professional Invoices in Seconds" %}</title>
+    <meta name="description" content="{% trans " Generate free professional invoices online in multiple languages and
+        currencies. Fast, simple, and SEO-friendly invoice creator." %}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            line-height: 1.6;
+            background: #f9fafb;
+            color: #111827;
+        }
+
+        header {
+            text-align: center;
+            padding: 2rem 1rem;
+            background: #1e3a8a;
+            color: #fff;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        header p {
+            font-size: 1.2rem;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin-top: 1rem;
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        main {
+            max-width: 1100px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+        }
+
+        .card {
+            background: #fff;
+            padding: 1.5rem;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+            text-align: center;
+        }
+
+        .card h2 {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .cta {
+            display: block;
+            background: #2563eb;
+            color: #fff;
+            text-decoration: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px;
+            margin-top: 1rem;
+            font-weight: bold;
+            transition: background 0.2s;
+        }
+
+        .cta:hover {
+            background: #1e40af;
+        }
+    </style>
 </head>
+
 <body>
     <header>
-        <h1>{% trans "Welcome to Your Invoice Generator" %}</h1>
-        <p>{% trans "Generate invoices quickly and easily." %}</p>
-        
-        <!-- Language switcher -->
+        <h1>{% trans "Free Online Invoice Generator – Create Professional Invoices Instantly" %}</h1>
+        <p>{% trans "Generate, customize, and download invoices in multiple languages and currencies." %}</p>
         <nav>
             <ul>
                 <li><a href="/en/">{% trans "English" %}</a></li>
@@ -23,11 +106,23 @@
     </header>
 
     <main>
-        <section>
-            <h2>{% trans "Start Creating Your Invoice" %}</h2>
-            <p>{% blocktrans %}Your default currency is {{ currency }}.{% endblocktrans %}</p>
-            <a href="{% url 'invoice' invoice_slug='default-invoice' %}">{% trans "Create Invoice" %}</a>
-        </section>
+        <div class="grid">
+            <section class="card">
+                <h2>{% trans "Quick & Easy" %}</h2>
+                <p>{% trans "No registration required. Start creating your invoice in just a few clicks." %}</p>
+                <a class="cta" href="{% url 'invoice_template1' %}">{% trans "Create Invoice Now"
+                    %}</a>
+            </section>
+            <section class="card">
+                <h2>{% trans "Multi-Language" %}</h2>
+                <p>{% trans "Generate invoices in English, French, German, Dutch, and more." %}</p>
+            </section>
+            <section class="card">
+                <h2>{% trans "Multi-Currency" %}</h2>
+                <p>{% trans "Choose from EUR, USD, GBP and more. Default currency is {{ currency }}." %}</p>
+            </section>
+        </div>
     </main>
 </body>
+
 </html>

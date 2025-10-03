@@ -1,0 +1,17 @@
+.tooltip-guide {
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+.tooltip-guide button {
+    border: none;
+    padding: 3px 6px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.tooltip-guide button.next-step {
+    background: #fff;
+    color: #2563eb;
+}
+.tooltip-guide button.skip-guide {
+    background: #fff;
+    color: #f00;
+}

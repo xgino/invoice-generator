@@ -1,0 +1,150 @@
+
+{% extends "base.html" %}
+{% load static %} 
+
+{% block title %}Free Online Invoice Generator | Create PDF Invoices in Seconds{% endblock %} 
+
+{% block content %}
+
+    <!-- INVOICE -->
+    <div class="canvas-wrap d-flex justify-content-center p-5">
+        <div id="invoice-wrapper">
+            <div class="page shadow">
+                <section id="invoice-canvas" class="p-5">
+                    <!-- HEADER -->
+                    <div class="inv-header d-flex justify-content-between align-items-start mb-4">
+                        <div class="d-flex gap-3 align-items-center">
+                            <div>
+                                <img id="logoPreview" src="" alt="Logo" style="max-width:350px; display:none;" />
+                                <h1 contenteditable="true" id="CompanyName" class="h3 mt-2">Your Company Name</h1>
+                                <!-- <small id="sellerExtra" contenteditable="true">
+                                    Business Adress 123<br />
+                                    1011 AB, Amsterdam<br />
+                                    Netherlands<br />
+                                </small> -->
+
+                                <br /><br /><br /><br />
+
+                                <div contenteditable="true">
+                                    <strong>Customer Name</strong><br />
+                                    Customer Street 456<br />
+                                    2000 AB, Rotterdam<br />
+                                    Netherlands
+                                </div>
+                            </div>
+                        </div>
+                        <div id="sellerAddr" contenteditable="true">
+                            <div class="text-start">
+                                <!-- <small id="sellerExtra" contenteditable="true">
+                                    Street 123<br />
+                                    1011 AB, Amsterdam<br />
+                                    Netherlands<br /><br />
+                                </small> -->
+
+                                Street 123<br />
+                                1011 AB, Amsterdam<br />
+                                Netherlands<br /><br />
+
+                                VAT Number: NL123456789B01<br />
+                                Business number: 12345678<br />
+
+                                <br />
+
+                                info@your-company.com<br />
+                                +31 (0)30 1234 567<br />
+                                www.your-company.com<br />
+
+                                <br />
+
+                                Bank: NL00 BANK 0123 4567 89<br />
+                                BIC/SWIFT: BANKNL2A
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="text-start" id="language_invoiceTitle" style="font-size:2rem; font-weight:bold; text-transform:uppercase;">
+                        INVOICE
+                    </div>
+
+                    <!-- INVOICE META DATA -->
+                    <div class="row p-1 text-start mb-3" contenteditable="true">
+                        <div class="col">
+                            <strong id="language_invoice-num">Invoice Number</strong><br>
+                            <span>INV-001</span>
+                        </div>
+                        <div class="col">
+                            <strong id="language_date-invoice">Date of Invoice</strong><br>
+                            <span>2025-08-29</span>
+                        </div>
+                        <div class="col">
+                            <strong id="language_due-date">Due Date</strong><br>
+                            <span>2025-09-12</span>
+                        </div>
+                        <div class="col">
+                            <strong id="language_purchase-order">Purchase Order #</strong><br>
+                            <span>PO-12345</span>
+                        </div>
+                    </div>
+
+                    <div class="row p-1" id="BgcolorLine">
+                        <!-- Filling color -->
+                    </div>
+
+                    <!-- ITEMS -->
+                    <table class="table table-borderless table-sm align-middle" id="itemsTable">
+                        <thead>
+                            <tr>
+                                <th id="language_th-description" class="text-start" style="width: 50%;">Description</th>
+                                <th id="language_th-qty" class="text-end" style="width: 15%;">Qty</th>
+                                <th id="language_th-unit" class="text-end" style="width: 15%;">Unit Price</th>
+                                <th id="language_th-total" class="text-end" style="width: 20%;">Total</th>
+                            </tr>
+                        </thead>
+                        <tbody id="itemsBody"></tbody>
+                        <tfoot>
+                            <tr>
+                                <td colspan="4">
+                                    <div class="justify-content-between align-items-start flex-wrap">
+                                        <!-- Summary -->
+                                        <div class="summary text-end" id="summaryBox">
+                                            <div>
+                                                <span id="language_subtotal">Subtotal</span>: <strong id="subtotal">€ 0,00</strong>
+                                            </div>
+                                            <div>
+                                                <span><span id="language_tax">Tax</span> (<span id="taxDisplay">21</span>%)</span>:
+                                                <strong id="taxAmount">€ 0,00</strong>
+                                            </div>
+                                            <div class="fw-bold fs-5">
+                                                <span id="language_total">Total</span>: <strong id="grandTotal">€ 0,00</strong>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tfoot>
+                    </table>
+
+                    <!-- TERMS / NOTES / PAYMENT REMINDER -->
+                    <div class="row mt-4">
+                        <div class="col text-start">
+                            <div id="invoiceFooter" contenteditable="true" class="border-top pt-3">
+                                <h3 class="h6" id="language_terms_notes">Terms & Notes</h3>
+                                <p id="language_terms_notes_text">
+                                    We kindly request payment within <strong>14 days</strong> to the bank details above, 
+                                    including the <strong>invoice number</strong> as reference.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- FOOTER -->
+                    <div class="footer mt-3 text-muted small d-flex justify-content-between">
+                        <small>Invoice Generated using invoicor.com</small>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}
