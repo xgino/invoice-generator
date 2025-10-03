@@ -159,7 +159,7 @@ body {
   min-height: auto;
   box-sizing: border-box;
   position: relative;
-  margin: 0 auto;
+  margin: 0;
   padding: 40px;
 }
 
