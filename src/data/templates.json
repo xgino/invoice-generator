@@ -1,0 +1,734 @@
+[
+  {
+    "slug": "photography",
+    "niche": "Photography",
+    "title": "Free Photography Invoice Template (PDF, Word, Excel) | Invoicor",
+    "meta_description": "Free photography invoice template with full guide. Learn what to include for usage rights, deposits, travel fees, and delivery terms to protect your work.",
+    "h1": "Free Photography Invoice Template",
+    "subtitle": "A complete guide and template for photographers, with the exact fields, line items, and clauses you need to protect your copyright, secure deposits, and get paid on time.",
+    "intro_paragraph": "Photography invoices are not standard service invoices. They sit at the intersection of creative work, intellectual property, and event logistics, which means your invoice needs to do more than just total up the amount owed. A well-structured photography invoice acts as a contract amendment, a licensing record, and a payment instruction in a single document. This page walks through every required field, common gotchas around usage rights and retainers, and a complete sample breakdown you can copy.",
+    "what_to_include_intro": "Photographers face billing challenges most other freelancers don't. Your invoice has to communicate not just what was delivered, but what the client is legally allowed to do with it, what's already been paid, and what triggers the release of final files. Getting any of these wrong creates disputes that are expensive to resolve.",
+    "req_1_title": "Usage & licensing rights",
+    "req_1_text": "Spell out exactly what the client may do with the images. Personal use, social media, commercial advertising, print media, time-limited campaign, perpetual buyout — these all carry different price points. List the license type as its own line item or as a clearly-labeled section, not buried in fine print.",
+    "req_2_title": "Deposit and balance structure",
+    "req_2_text": "If you took a non-refundable retainer to hold the date, show the total shoot fee, subtract the retainer amount and date it was paid, then highlight the balance due. This gives the client a clear paper trail and protects you if they later dispute what was paid.",
+    "req_3_title": "Travel, location, and equipment fees",
+    "req_3_text": "Itemize travel mileage (or the IRS standard mileage rate), studio rental, second-shooter fees, drone operator fees, and specialty equipment rentals. Bundling these into one number leads to clients questioning the total; itemizing makes the production scope visible.",
+    "req_4_title": "Final delivery conditions",
+    "req_4_text": "Include a line stating that high-resolution galleries, print releases, or raw files will be delivered only after the balance is paid in full. This is industry-standard and gives you leverage if a client tries to delay payment after the shoot.",
+    "req_5_title": "Image count and deliverables",
+    "req_5_text": "Specify the number of edited images included (e.g. '40 edited high-resolution images') and the delivery format (online gallery, USB, print files). If the client wants more images than the package includes, list 'additional images' as a per-image rate they can opt into later.",
+    "req_6_title": "Cancellation and reschedule policy",
+    "req_6_text": "On larger shoots (weddings, commercial campaigns), reference your cancellation policy directly on the invoice: typically the retainer is non-refundable, and reschedules within a certain window forfeit the retainer or trigger a reschedule fee.",
+    "what_to_include_outro": "Structuring your invoice this way eliminates the most common photographer-client disputes before they happen. The client knows what they're paying for, what they own, and what releases the files. Your copyright is protected by default rather than by negotiation after the fact.",
+    "sample_breakdown_title": "Sample wedding photography invoice breakdown",
+    "sample_breakdown_intro": "Here's a realistic invoice for a full-day wedding shoot with a second shooter and online gallery delivery. Adjust the numbers to match your market rate, but the structure is the same.",
+    "sample_breakdown_rows": [
+      { "description": "Wedding day coverage (8 hours)", "qty": "1", "rate": "$2,800.00", "amount": "$2,800.00" },
+      { "description": "Second shooter (6 hours)", "qty": "1", "rate": "$600.00", "amount": "$600.00" },
+      { "description": "Online gallery hosting (12 months)", "qty": "1", "rate": "$150.00", "amount": "$150.00" },
+      { "description": "Edited high-res images (up to 400)", "qty": "1", "rate": "Included", "amount": "$0.00" },
+      { "description": "Travel — venue 45 miles from studio", "qty": "90 mi", "rate": "$0.67/mi", "amount": "$60.30" },
+      { "description": "Personal use license (non-commercial)", "qty": "1", "rate": "Included", "amount": "$0.00" }
+    ],
+    "sample_breakdown_subtotal": "$3,610.30",
+    "sample_breakdown_deposit": "-$1,800.00",
+    "sample_breakdown_deposit_label": "50% retainer (paid Mar 12)",
+    "sample_breakdown_balance": "$1,810.30",
+    "sample_breakdown_notes": "Balance due within 14 days of shoot date. High-resolution gallery delivered upon receipt of final payment. Personal use license; commercial use available for additional licensing fee.",
+    "industry_notes_title": "Photography-specific billing notes",
+    "industry_notes": [
+      { "title": "Sales tax on photography", "text": "In many US states, photography services are taxable when tangible goods (prints, USB drives, albums) are delivered, but not when delivery is purely digital. A handful of states tax all photography services regardless of delivery format. Check your state's department of revenue before assuming you don't need to charge tax." },
+      { "title": "Copyright stays with you", "text": "Under US copyright law, the photographer owns the copyright the moment the shutter clicks, regardless of who paid. The invoice grants a license to use the images, not ownership. State this explicitly: 'Copyright retained by [Studio Name]; client receives the license specified above.'" },
+      { "title": "Model and property releases are separate", "text": "If the shoot involves people or private property and you intend to use the images for your own portfolio or commercial work, model and property releases are separate documents, not invoice line items. Reference them on the invoice with the document IDs, but keep the releases themselves filed separately." }
+    ],
+    "mistakes_title": "Three mistakes photographers make on invoices",
+    "mistakes": [
+      { "title": "Not specifying license duration", "text": "'Commercial use' without a time limit means perpetual commercial use, which is the most valuable license you can grant. If you priced the shoot for a one-year campaign, write '1-year commercial use license' explicitly. Otherwise the client has a perpetual license at a one-year price." },
+      { "title": "Letting clients see proofs before final payment", "text": "Sending watermarked proofs is fine, but full-resolution unwatermarked previews before the balance clears is the most common way photographers lose leverage on payment. State on the invoice that proofs are watermarked and unwatermarked files release on payment." },
+      { "title": "Forgetting to invoice for reshoots", "text": "If a client requests a reshoot because they didn't like a setup (vs. a genuine error on your part), that's billable time. Reshoots due to client preference should have a per-hour or flat reshoot rate clearly defined on the original invoice, so it doesn't become an awkward conversation later." }
+    ],
+    "pro_tip": "When a client questions your total, the answer is almost never 'lower the price' — it's 'itemize more'. Breaking a $4,000 wedding invoice into 6-8 line items (coverage, second shooter, hosting, travel, editing, license, etc.) makes the same total feel like a professional production cost rather than an arbitrary number. The price doesn't change; the perceived value does.",
+    "when_to_use_each_format_title": "Which file format should I use?",
+    "format_pdf_desc": "Use PDF for the final, signed-off invoice you send to the client. PDFs preserve formatting across every device, can't be edited by accident, and are the format every accounting system expects. This is the default for 95% of photography invoices.",
+    "format_word_desc": "Use Word (.docx) only when you need to embed a long licensing clause, model release reference, or custom contract terms directly into the invoice document. Keep in mind clients can edit Word files, which is a problem if they later claim the terms were different.",
+    "format_excel_desc": "Use Excel for high-volume commercial work (e.g. a publication that ordered 30 separate images at different per-image rates) where automatic per-row calculations are genuinely useful. For single-event invoices, Excel is overkill and looks unprofessional.",
+    "faqs": [
+      {
+        "question": "Should I invoice photography clients before or after the shoot?",
+        "answer": "Best practice is to split it into two invoices. Send the retainer invoice (typically 50% of the total, non-refundable) the moment the booking is confirmed, with payment required before the date is held. Send the balance invoice the day of or day after the shoot, with payment required before gallery delivery. This protects you on both ends: the retainer covers your time if they cancel, and the balance is leverage to ensure final payment."
+      },
+      {
+        "question": "How do I charge for travel time and mileage on an invoice?",
+        "answer": "There are three common approaches. The simplest is the IRS standard mileage rate (currently $0.67/mile in 2024, check the current year), multiplied by round-trip distance. The second is a flat travel fee based on distance bands ('within 20 miles: included; 20-50 miles: $75; 50-100 miles: $150'). The third is hourly travel time on top of mileage, used for shoots requiring long drives or overnight stays. Pick one approach and use it consistently."
+      },
+      {
+        "question": "What's the difference between a deposit and a retainer on a photography invoice?",
+        "answer": "Legally, they're different in many US states. A 'deposit' is generally refundable if the work isn't completed; a 'retainer' is non-refundable and paid in exchange for holding your time. For wedding and event photography, you almost always want to label it 'non-refundable retainer' explicitly on the invoice, not 'deposit'. The wording matters if a client cancels and tries to claim a refund."
+      },
+      {
+        "question": "Do I need to charge sales tax on a photography invoice?",
+        "answer": "It depends on your state and what you're delivering. Most US states tax photography services when physical goods (prints, USB drives, albums) are part of the deliverable. Some states tax all photography services regardless of delivery format. A few states don't tax services at all. Look up your state's specific rules on the department of revenue website — assuming you don't need to charge tax is the most common (and expensive) photographer mistake."
+      },
+      {
+        "question": "Can I include a contract or model release with the invoice?",
+        "answer": "You can attach them, but they should remain separate documents. The invoice is a payment record; the contract is a legal agreement; the model release is a rights grant. Putting all three in one document creates ambiguity if there's ever a dispute. Reference the contract and release by document name or ID on the invoice ('see attached: Master Service Agreement, Model Release MR-2024-018') and keep the actual documents separate."
+      },
+      {
+        "question": "What payment terms should I put on a photography invoice?",
+        "answer": "For retainer invoices, 'due upon receipt' or 'due to hold date'. For balance invoices, 'net 7' or 'net 14' is standard — long enough to be reasonable, short enough that you're waiting weeks for files to be released. For commercial clients with formal payment systems, net 30 is common but should be negotiated upfront, not assumed."
+      }
+    ],
+    "related": [
+      { "name": "Videography", "slug": "videography" },
+      { "name": "Freelance Design", "slug": "freelance-design" }
+    ]
+  },
+  {
+    "slug": "plumbing",
+    "niche": "Plumbing",
+    "title": "Free Plumbing Invoice Template for Contractors | Invoicor",
+    "meta_description": "Free plumbing invoice template with complete guide. Learn how to itemize parts and labor, apply sales tax correctly, and protect your work with warranty terms.",
+    "h1": "Free Plumbing Invoice Template",
+    "subtitle": "A complete guide and template for plumbing contractors, with the exact fields, line items, tax handling, and warranty language you need to bill cleanly and avoid disputes.",
+    "intro_paragraph": "A plumbing invoice does double duty: it's a payment request and a written record of exactly what work was performed, with what materials, under what warranty. Get the structure right and you reduce disputes, calculate sales tax correctly, and create the audit trail your accountant needs at year-end. Get it wrong and you spend Saturday mornings on the phone with homeowners who don't recognize charges. This page walks through every required field, the parts-vs-labor tax treatment that catches most plumbers off-guard, and a full sample invoice breakdown you can adapt.",
+    "what_to_include_intro": "Plumbing invoices must balance clarity for the homeowner with the compliance and tax structure your business needs. Homeowners want to see exactly what they paid for; you need every line tagged correctly so sales tax calculates right and your warranty terms hold up if something fails six months from now.",
+    "req_1_title": "Parts and labor on separate lines",
+    "req_1_text": "Never bundle a job into a single 'plumbing repair: $450' line. Break it into the labor hours (with the hourly rate visible) and each material with its actual cost. This is required for correct sales tax calculation in most states, and it's the single best way to head off 'why is this so expensive?' phone calls.",
+    "req_2_title": "Dispatch or diagnostic fee at the top",
+    "req_2_text": "If you charge a flat fee for showing up (typically $75-$150 standard, $150-$300 for after-hours), list it as the first line item. This sets the expectation that travel and diagnosis have value separate from the repair itself, and justifies it if the diagnostic reveals no work is needed.",
+    "req_3_title": "Specific work descriptions",
+    "req_3_text": "'Fixed sink' is not a description. 'Cleared blockage in master bathroom P-trap, replaced corroded slip-joint washer and tailpiece' is. Specific descriptions protect you against future disputes ('you said you fixed the leak, but the toilet is still leaking') because they document exactly what scope of work the invoice covered.",
+    "req_4_title": "Warranty terms in the footer",
+    "req_4_text": "State your standard warranty in plain language: how long it lasts (30, 60, or 90 days is typical for labor), what's covered (your workmanship), and what isn't (customer-supplied parts, pre-existing conditions, normal wear). Many states require warranty disclosure on contracted work; even where not required, it's strong legal protection.",
+    "req_5_title": "After-hours and weekend rate multiplier",
+    "req_5_text": "If the job was emergency, weekend, or after-hours, this needs to be visible on the invoice — either as a multiplier on the labor rate ('Sunday emergency rate: $180/hr (1.5x)') or a flat surcharge line item. If you quote a rate verbally and forget to apply it on the written invoice, you lose money and the customer assumes the standard rate applies to all future calls.",
+    "req_6_title": "License and insurance information",
+    "req_6_text": "Include your contractor license number and insurance details in the invoice footer. Most US states require licensed plumbers to display their license number on all invoices and contracts. It's also a trust signal for the homeowner and a basic legal protection if the job ever ends up in dispute.",
+    "what_to_include_outro": "A detailed invoice does three jobs: it justifies your price, it serves as a legal record of the work performed, and it gives your accountant the tax categorization needed at year-end. Skipping any of the fields above creates risk somewhere down the line.",
+    "sample_breakdown_title": "Sample plumbing invoice breakdown",
+    "sample_breakdown_intro": "Here's a realistic invoice for a Saturday emergency call to replace a failed water heater T&P relief valve. Adjust the numbers to your market and your state's tax rules.",
+    "sample_breakdown_rows": [
+      { "description": "Emergency callout fee (Saturday rate)", "qty": "1", "rate": "$125.00", "amount": "$125.00" },
+      { "description": "Diagnostic and pressure test", "qty": "1", "rate": "$45.00", "amount": "$45.00" },
+      { "description": "Labor — valve replacement (1.5 hrs)", "qty": "1.5", "rate": "$95.00/hr", "amount": "$142.50" },
+      { "description": "T&P relief valve (taxable part)", "qty": "1", "rate": "$38.00", "amount": "$38.00" },
+      { "description": "Teflon tape and pipe dope (taxable parts)", "qty": "1", "rate": "$6.50", "amount": "$6.50" }
+    ],
+    "sample_breakdown_subtotal": "$357.00",
+    "sample_breakdown_tax_label": "Sales tax (6.5% on materials only)",
+    "sample_breakdown_tax": "$2.89",
+    "sample_breakdown_balance": "$359.89",
+    "sample_breakdown_notes": "Payment due upon completion. 60-day warranty on workmanship. Manufacturer warranty applies to T&P valve per manufacturer terms. License #PL-XXXXX. Insured.",
+    "industry_notes_title": "Plumbing-specific billing notes",
+    "industry_notes": [
+      { "title": "Sales tax on materials vs labor", "text": "In most US states, materials are taxable and labor is not. A handful of states (Hawaii, New Mexico, South Dakota, West Virginia) tax both. Always tag each line item as taxable or non-taxable when you create the invoice so the total is correct by default. The wrong default is the #1 source of audit issues for trade businesses." },
+      { "title": "License number on every invoice", "text": "Most US states require licensed plumbers to display their license number on all customer-facing invoices and contracts. Include it in your invoice footer alongside your business name and insurance status. Some states also require the customer's right-to-cancel notice on residential jobs above a certain dollar threshold." },
+      { "title": "Warranty terms protect both sides", "text": "A clearly stated warranty (e.g. '60 days on labor, manufacturer warranty on parts') is enforceable in most jurisdictions and prevents endless callbacks. Without explicit terms, courts often default to an implied warranty of workmanship, which is harder to defend if the homeowner has unrealistic expectations." }
+    ],
+    "mistakes_title": "Three mistakes plumbers make on invoices",
+    "mistakes": [
+      { "title": "Charging sales tax on labor when you shouldn't", "text": "If your state doesn't tax labor (most don't), but you apply a single tax rate to the entire invoice subtotal, you're overcharging the customer on the labor portion. This is usually paid out of your own pocket because you've already remitted it to the state. Always tag lines individually." },
+      { "title": "Verbal rate, written without the multiplier", "text": "You tell the customer on the phone 'Saturday calls are 1.5x', then write up the invoice with the standard rate because you forgot. Now the customer assumes that's your rate forever, and pushes back if you ever charge the multiplier on a future job. Always apply the multiplier on the written invoice." },
+      { "title": "No warranty terms, then a callback in month four", "text": "If the invoice doesn't state warranty duration, and the customer calls in month four saying the repair failed, you're stuck either doing free work or having an awkward argument. A simple '60-day labor warranty' line in the footer sets a clean expectation both sides can rely on." }
+    ],
+    "pro_tip": "For jobs over $500, require a signature on the invoice before you leave the property. This is a legal acknowledgment that the homeowner accepted the work as completed and agrees to the payment terms. It takes 10 seconds, but it's the difference between 'the homeowner is disputing this charge' and 'the homeowner signed the invoice confirming completion'. Most card readers and invoicing apps support signature capture directly.",
+    "when_to_use_each_format_title": "Which file format should I use?",
+    "format_pdf_desc": "Use PDF as your default for the invoice you leave with the homeowner. PDFs print cleanly on the kitchen counter, can't be modified after the fact, and are accepted by every accounting system at year-end. This is what 95% of your invoices should be.",
+    "format_word_desc": "Use Word (.docx) only when you need to manually type extensive fault descriptions or repair methodology for a complex job (e.g. detailed write-ups for insurance claims after water damage). For routine repair work, Word is unnecessary friction.",
+    "format_excel_desc": "Use Excel only for large commercial jobs where you're tracking hundreds of pipe fittings, bulk material quantities, or multi-day labor across several techs. For typical residential and light commercial calls, Excel is overkill and looks unprofessional next to a properly designed PDF invoice.",
+    "faqs": [
+      {
+        "question": "Do I have to charge sales tax on plumbing services?",
+        "answer": "It depends on your state. Most US states tax materials but not labor; a few (Hawaii, New Mexico, South Dakota, West Virginia) tax both. The cleanest approach is to tag each line item on your invoice as either 'parts' (taxable) or 'labor' (non-taxable), so the total calculates correctly by default. Check your state's department of revenue page for the exact rules — and never apply a single tax rate to the full subtotal, because you'll either overcharge the customer or under-remit to the state."
+      },
+      {
+        "question": "Can I accept credit card payments in the field?",
+        "answer": "Not from a printed PDF you can't, but with a mobile invoicing tool (like the Invoicor app) you can text the invoice link to the homeowner and they pay from their own phone using card, Apple Pay, or Google Pay — usually before you've packed up your tools. This dramatically reduces the time from job completion to cash in your bank account compared to mailing a paper invoice and waiting for a check."
+      },
+      {
+        "question": "What payment terms should I put on a plumbing invoice?",
+        "answer": "For residential work, 'due upon completion' is standard — payment is collected on-site the day the job is done. For commercial property managers, net 15 or net 30 is more common, depending on what was negotiated upfront. Avoid leaving payment terms blank; if a customer disputes when payment is due, courts generally default to 'reasonable time', which is much harder to enforce than 'due on receipt'."
+      },
+      {
+        "question": "Should I require a deposit for plumbing work?",
+        "answer": "For routine service calls under a few hundred dollars, no — most plumbers bill on completion. For larger jobs (full repipe, water heater replacement, bathroom remodels), a 30-50% deposit is reasonable to cover the cost of materials you have to purchase upfront. State the deposit terms clearly on the initial invoice or estimate, and make sure the deposit is non-refundable once materials are ordered."
+      },
+      {
+        "question": "What warranty should I offer on plumbing work?",
+        "answer": "Industry standard is 30-90 days on labor (workmanship), with parts covered by the manufacturer's warranty separately. State the duration explicitly on the invoice footer. Be careful not to over-promise: a 'lifetime warranty' on labor is rarely defensible legally, and customer-supplied parts should be explicitly excluded ('warranty does not cover customer-supplied parts or pre-existing conditions')."
+      },
+      {
+        "question": "How do I invoice a job that's covered partly by insurance?",
+        "answer": "When working on insurance claims (typically water damage), the invoice usually goes to the homeowner with a copy to the insurance adjuster. Itemize everything in detail — adjusters scrutinize line items closely, and a vague invoice gets pushed back. Include your license number, photos of the damage if available, and reference the claim number on the invoice. Many insurers pay the adjuster's approved amount directly to the homeowner, who then pays you, so make sure your payment terms account for the insurance timeline."
+      }
+    ],
+    "related": [
+      { "name": "HVAC", "slug": "hvac" },
+      { "name": "Handyman", "slug": "handyman" }
+    ]
+  },
+  {
+    "slug": "hvac",
+    "niche": "HVAC",
+    "title": "Free HVAC Invoice Template for Contractors | Invoicor",
+    "meta_description": "Free HVAC invoice template with full guide. Learn what to include for diagnostic fees, refrigerant tracking, unit replacements, and correct sales tax handling.",
+    "h1": "Free HVAC Invoice Template",
+    "subtitle": "A complete guide and template for HVAC technicians, featuring exact line items for diagnostics, refrigerant, and flat-rate repairs to ensure you get paid fast and stay compliant.",
+    "intro_paragraph": "HVAC billing requires balancing emergency response urgency with strict compliance. Whether you are performing a routine AC tune-up or a $10,000 complete system replacement, your invoice is the legal record of your work. A properly formatted HVAC invoice prevents customer sticker shock, tracks expensive materials like Freon/Puron, and ensures you aren't paying sales tax out of your own pocket. This guide provides the exact fields, line items, and tax insights you need.",
+    "what_to_include_intro": "An HVAC invoice must clearly separate the cost of simply arriving at the home from the cost of the actual repair. It also needs to provide a clear paper trail for serialized equipment and refrigerants.",
+    "req_1_title": "Callout / Diagnostic Fee",
+    "req_1_text": "Always list your trip charge or diagnostic fee as a separate, initial line item. This justifies your time to travel and troubleshoot, even if the customer declines the subsequent repair quote.",
+    "req_2_title": "Model and Serial Numbers",
+    "req_2_text": "When replacing major components (compressors, coils, furnaces) or entire units, record the Model and Serial numbers directly on the invoice. This is critical for activating manufacturer warranties and provides a professional service record for the homeowner.",
+    "req_3_title": "Refrigerant Tracking",
+    "req_3_text": "Freon (R-22) and Puron (R-410A) are expensive and strictly regulated. Itemize refrigerant by the pound/ounce, separate from the labor to inject it. This justifies the high cost to the customer and maintains your EPA compliance trail.",
+    "req_4_title": "Labor and Parts Separation",
+    "req_4_text": "Never use a generic 'HVAC Repair' line item. Break out the blower motor (part) and the installation (labor). This is essential for proper sales tax calculation and shows the customer exactly where their money is going.",
+    "req_5_title": "Preventative Maintenance Agreements",
+    "req_5_text": "If the visit was part of a seasonal maintenance contract, list the service with a $0 or 'Included' balance, or invoice for the next year's contract directly on the receipt to secure recurring revenue.",
+    "req_6_title": "Clear Warranty Terms",
+    "req_6_text": "Differentiate between your labor warranty (e.g., 30 days) and the manufacturer's parts warranty (e.g., 10 years). Put this explicitly in the footer to prevent future disputes over failed parts.",
+    "what_to_include_outro": "By separating diagnostics from repairs and parts from labor, you eliminate the ambiguity that causes customers to dispute charges. A detailed invoice proves your professionalism before they even read the total.",
+    "sample_breakdown_title": "Sample HVAC repair invoice breakdown",
+    "sample_breakdown_intro": "Here is a standard invoice for diagnosing a warm AC and replacing a failed dual run capacitor, plus adding refrigerant.",
+    "sample_breakdown_rows": [
+      { "description": "Standard diagnostic / trip fee", "qty": "1", "rate": "$89.00", "amount": "$89.00" },
+      { "description": "Labor — replace capacitor & test system", "qty": "1", "rate": "$120.00", "amount": "$120.00" },
+      { "description": "45/5 MFD Dual Run Capacitor (taxable)", "qty": "1", "rate": "$65.00", "amount": "$65.00" },
+      { "description": "R-410A Refrigerant (per pound) (taxable)", "qty": "2", "rate": "$75.00", "amount": "$150.00" }
+    ],
+    "sample_breakdown_subtotal": "$424.00",
+    "sample_breakdown_tax_label": "Sales tax (7.0% on parts/refrigerant only)",
+    "sample_breakdown_tax": "$15.05",
+    "sample_breakdown_balance": "$439.05",
+    "sample_breakdown_notes": "Payment due upon completion. 30-day warranty on labor. 1-year manufacturer warranty on capacitor. HVAC License #12345.",
+    "industry_notes_title": "HVAC-specific billing notes",
+    "industry_notes": [
+      { "title": "Sales tax applies to parts, usually not labor", "text": "In the majority of US states, HVAC parts and refrigerants are taxable, but the labor to install or diagnose them is not. You must apply tax only to the materials line items to remain compliant and avoid overcharging the customer." },
+      { "title": "Flat-rate pricing vs T&M", "text": "Many modern HVAC companies use flat-rate pricing books. If you do, you can still list 'Replace Dual Run Capacitor (Includes Parts & Labor)' as a single line, but be aware of how your specific state requires you to handle sales tax on bundled flat-rate items." },
+      { "title": "Financing disclaimers", "text": "If a customer is utilizing third-party financing for a $12,000 system install, note the financing company and approval code in the invoice notes. The invoice balance should reflect the financed amount as a 'Payment Received via [Lender]'." }
+    ],
+    "mistakes_title": "Three mistakes HVAC techs make on invoices",
+    "mistakes": [
+      { "title": "Hiding the diagnostic fee in the repair cost", "text": "If you waive the diagnostic fee when they accept the repair, show it! List the $89 fee, then add a line item for 'Diagnostic Fee Waived with Repair: -$89'. It shows the customer they got a deal and anchors the value of your time." },
+      { "title": "Failing to document pre-existing damage", "text": "If you go into an attic to fix a furnace and notice the ductwork is crushed, note it on the invoice. If the house doesn't cool properly next week, your invoice proves it was a pre-existing issue you warned them about." },
+      { "title": "Not collecting deposits on equipment", "text": "Never order a $4,000 condenser unit without a deposit. Use your invoice to collect a 30-50% non-refundable deposit before you put the order in at the supply house to protect your cash flow." }
+    ],
+    "pro_tip": "Use the notes section of every repair invoice to pitch your seasonal maintenance agreement. Write: 'Ask about our $15/month preventative maintenance club to receive 15% off today's repair!' It converts one-time emergency calls into recurring revenue.",
+    "when_to_use_each_format_title": "Which file format should I use?",
+    "format_pdf_desc": "PDF is the gold standard. It locks your pricing, presents a clean, professional layout on the customer's phone or tablet, and is exactly what their home warranty company will require if they submit a claim.",
+    "format_word_desc": "Avoid Word unless you are drafting a highly custom, multi-page proposal for a massive commercial installation that requires extensive back-and-forth redlining.",
+    "format_excel_desc": "Only useful for commercial bids where you are calculating hundreds of feet of ductwork, grills, and registers. Not suitable for residential service calls.",
+    "faqs": [
+      {
+        "question": "How do I invoice for a new system installation?",
+        "answer": "Issue Invoice #1 for a 50% equipment deposit when the contract is signed. Once the install is complete and the system is tested, issue Invoice #2 for the remaining balance. Always include the new unit's Make, Model, and Serial Number on the final invoice."
+      },
+      {
+        "question": "Should I charge tax on Freon/Refrigerant?",
+        "answer": "Yes, in almost all states, refrigerant is considered a tangible personal property (a material) and is subject to state sales tax, even though it is injected into the system."
+      },
+      {
+        "question": "What if the customer's home warranty is paying?",
+        "answer": "Bill the customer only for their required deductible/copay at the time of service. The remaining balance should be invoiced directly to the home warranty company with the authorization number clearly printed in the notes."
+      }
+    ],
+    "related": [
+      { "name": "Plumbing", "slug": "plumbing" },
+      { "name": "Electrician", "slug": "electrician" }
+    ]
+  },
+  {
+    "slug": "freelance-design",
+    "niche": "Freelance Design",
+    "title": "Free Freelance Design Invoice Template | Invoicor",
+    "meta_description": "Free invoice template for freelance graphic and web designers. Learn to bill for retainers, milestone payments, and transfer intellectual property correctly.",
+    "h1": "Free Freelance Design Invoice Template",
+    "subtitle": "A complete guide and template for graphic designers, web designers, and illustrators. Learn how to structure deposits, itemize revision rounds, and tie intellectual property rights to final payment.",
+    "intro_paragraph": "Billing for design work is fundamentally different than billing for physical labor. You are charging for creativity, strategy, and intellectual property. A sloppy invoice not only delays your payment, but it can create massive legal headaches regarding who owns the final logo, website, or illustration. This guide provides the exact invoice structure you need to secure upfront deposits, manage scope creep, and release final files safely.",
+    "what_to_include_intro": "A professional design invoice clearly defines the scope of the project, establishes boundaries around revisions, and acts as the gatekeeper for file delivery.",
+    "req_1_title": "Clear project milestones",
+    "req_1_text": "Design projects usually span weeks. Break the total cost into milestones: e.g., '50% Upfront Deposit', '25% upon Wireframe Approval', '25% upon Final Delivery'. This keeps cash flowing and prevents you from doing 100% of the work for 0% of the pay.",
+    "req_2_title": "Explicit revision limits",
+    "req_2_text": "Scope creep is the designer's worst enemy. Include a line item that explicitly states the included revisions: 'Includes up to 2 rounds of revisions. Additional rounds billed at $85/hr.' Documenting this upfront makes billing for extra work frictionless.",
+    "req_3_title": "IP and copyright transfer clauses",
+    "req_3_text": "Your invoice must state that the client only receives the rights to the work *after* the final invoice is paid in full. A simple note reading 'Intellectual property rights and native source files transfer to client only upon receipt of full payment' gives you ultimate leverage.",
+    "req_4_title": "Deliverable formats",
+    "req_4_text": "Specify exactly what files the client is buying. Are they getting flat PNGs and a PDF, or are they buying the layered Figma/Illustrator source files? If source files cost extra, list them as a separate line item.",
+    "req_5_title": "Kill fee terms",
+    "req_5_text": "If a client cancels a project halfway through, you deserve to be paid for the work done. Reference your contract's 'kill fee' (usually retaining the 50% deposit) in the invoice notes.",
+    "req_6_title": "Payment due dates and late fees",
+    "req_6_text": "Designers frequently suffer from late-paying clients. Clearly state the due date (e.g., 'Net 15') and note your late fee policy (e.g., '1.5% interest applied monthly to overdue balances').",
+    "what_to_include_outro": "By setting strict boundaries around revisions, deliverables, and ownership rights directly on your invoice, you position yourself as a premium professional and eliminate the ambiguity that leads to unpaid bills.",
+    "sample_breakdown_title": "Sample brand identity design invoice",
+    "sample_breakdown_intro": "Here is an example of a final balance invoice for a branding project, assuming a 50% deposit was already paid.",
+    "sample_breakdown_rows": [
+      { "description": "Brand Identity Package (Total Project)", "qty": "1", "rate": "$4,000.00", "amount": "$4,000.00" },
+      { "description": "Additional Revision Round (Client Requested)", "qty": "2 hrs", "rate": "$100.00/hr", "amount": "$200.00" },
+      { "description": "Webfont Licensing (Reimbursable Expense)", "qty": "1", "rate": "$45.00", "amount": "$45.00" }
+    ],
+    "sample_breakdown_subtotal": "$4,245.00",
+    "sample_breakdown_deposit": "-$2,000.00",
+    "sample_breakdown_deposit_label": "Less 50% Deposit (Paid Jan 10)",
+    "sample_breakdown_balance": "$2,245.00",
+    "sample_breakdown_notes": "Balance due upon receipt. Final vector assets (.AI, .EPS, .SVG) and copyright transfer will be released immediately upon payment clearance.",
+    "industry_notes_title": "Design-specific billing notes",
+    "industry_notes": [
+      { "title": "Sales tax on digital goods", "text": "In the US, most states do not tax digital design services. However, if your design package includes physical printed items (like business cards or brochures), that portion of the project may be subject to sales tax. Always separate digital services from physical goods." },
+      { "title": "Retainers vs. Hourly", "text": "For ongoing clients, consider billing a 'Monthly Design Retainer' rather than tracking hours. Invoice for the retainer on the 1st of the month, payable before work begins, to guarantee your baseline income." },
+      { "title": "International currency", "text": "Design is a global industry. If you are billing a client in another country, issue the invoice in their local currency to look more professional, but use a payment processor like Stripe to automatically convert it to your home currency." }
+    ],
+    "mistakes_title": "Three mistakes freelance designers make on invoices",
+    "mistakes": [
+      { "title": "Delivering source files before payment", "text": "Never send the final, unwatermarked, high-resolution vector files before the final invoice is paid. Once the client has the assets, your leverage to get paid drops to zero." },
+      { "title": "Failing to bill for stock assets", "text": "If you had to purchase premium stock photos, specialized fonts, or UI kits for the project, list them as reimbursable expenses on the final invoice. Don't eat those costs out of your own profit margin." },
+      { "title": "Vague descriptions of work", "text": "Instead of writing 'Website Design', write 'Custom 5-page WordPress website design, including responsive mobile layouts and basic SEO setup.' Detailed invoices prevent clients from demanding 'just one more page' for free." }
+    ],
+    "pro_tip": "If a client asks for a discount, never simply lower your price. Instead, remove a deliverable to match their budget. If they can't afford the $4,000 brand package, offer to remove the brand guidelines PDF and secondary logo marks to hit their $3,000 budget. This maintains your hourly value.",
+    "when_to_use_each_format_title": "Which file format should I use?",
+    "format_pdf_desc": "PDF is mandatory for designers. Your invoice is a reflection of your brand; it must look visually perfect. PDFs ensure your fonts, logo, and layout render exactly as you designed them, no matter what device the client uses.",
+    "format_word_desc": "Never send a Word document. It looks amateurish, the formatting breaks easily, and clients can alter the numbers before paying.",
+    "format_excel_desc": "Avoid Excel unless you are attaching a separate, highly detailed timesheet showing minute-by-minute breakdowns for an enterprise client.",
+    "faqs": [
+      {
+        "question": "How much should I ask for a deposit?",
+        "answer": "Industry standard for freelance design is a 50% non-refundable deposit upfront, and 50% upon project completion. For very large projects (over $10,000), a 33/33/33 structure is common (Upfront, Midpoint, Final)."
+      },
+      {
+        "question": "Can I charge a rush fee?",
+        "answer": "Yes. If a client needs a logo over the weekend, add a 'Rush Fee (48-hour turnaround)' line item. Typically, rush fees are an additional 50% to 100% of the standard project rate."
+      },
+      {
+        "question": "Do I need a separate contract if I use a detailed invoice?",
+        "answer": "Yes. While an invoice can list terms, a formal contract (or Master Services Agreement) protects you against liability, outlines confidentiality, and details the full scope of work. The invoice is strictly the financial mechanism."
+      }
+    ],
+    "related": [
+      { "name": "Consulting", "slug": "consulting" },
+      { "name": "Photography", "slug": "photography" }
+    ]
+  },
+  {
+    "slug": "handyman",
+    "niche": "Handyman",
+    "title": "Free Handyman Invoice Template (PDF, Word, Excel) | Invoicor",
+    "meta_description": "Free handyman invoice template. Learn how to bill for hourly labor, itemize hardware store runs, and present a professional receipt to homeowners.",
+    "h1": "Free Handyman Invoice Template",
+    "subtitle": "A straightforward guide and template for independent handymen. Learn how to accurately bill for your time, mark up materials, and leave a professional impression that earns repeat business.",
+    "intro_paragraph": "As a handyman, you might fix a leaky sink, patch drywall, and assemble a ceiling fan all in one afternoon. Because your tasks are varied, your invoices need to be highly adaptable. A handwritten receipt torn from a carbon-copy booklet undermines the quality of your work. By using a professional invoice, you can clearly separate your labor from your material costs, justify your rates, and make it incredibly easy for the homeowner to pay you on the spot.",
+    "what_to_include_intro": "A handyman's invoice needs to clearly show the homeowner exactly what they are paying for, especially when multiple small tasks are grouped into a single visit.",
+    "req_1_title": "Itemized list of tasks completed",
+    "req_1_text": "Don't just write 'House repairs'. List each specific task: 'Replaced master bath flapper, patched 2x2 drywall hole in hallway, hung living room curtains'. This proves you accomplished everything on their to-do list.",
+    "req_2_title": "Labor structure (Hourly vs. Flat Rate)",
+    "req_2_text": "If you bill hourly, state the hours worked and your rate clearly (e.g., '4 hours @ $75/hr'). If you quoted flat rates per task, list the task and the fixed price. Whichever you choose, make it mathematically clear.",
+    "req_3_title": "Material reimbursements",
+    "req_3_text": "If you had to run to Home Depot for a specific ceiling fan or drywall mud, list these materials separately. If you add a markup (e.g., 20%) to cover your time shopping, include that in the line item total.",
+    "req_4_title": "Minimum trip charges",
+    "req_4_text": "If you have a '2-hour minimum' or a flat 'Callout Fee' just to show up, list it. This protects you from driving 30 minutes just to change a lightbulb for $15.",
+    "req_5_title": "Payment terms and methods",
+    "req_5_text": "Clearly state 'Due upon completion'. Also, list the ways they can pay: 'Cash, Check, Venmo, or Credit Card'. Making it easy to pay means you get your money before you leave the driveway.",
+    "req_6_title": "Clean-up and disposal fees",
+    "req_6_text": "If your repair generated trash (like old wood rot or broken appliances) that you are hauling away, list a 'Debris Removal' fee. Your time at the dump is billable.",
+    "what_to_include_outro": "Transparency is the key to repeat business. When a homeowner can read down your invoice and see a fair, itemized account of your hard work, they won't hesitate to call you again next month.",
+    "sample_breakdown_title": "Sample handyman invoice breakdown",
+    "sample_breakdown_intro": "Here is an example of an invoice for a half-day's work tackling a homeowner's mixed to-do list.",
+    "sample_breakdown_rows": [
+      { "description": "Labor: Ceiling fan installation & drywall patch", "qty": "3.5 hrs", "rate": "$75.00/hr", "amount": "$262.50" },
+      { "description": "Hunter 52-inch Ceiling Fan (Materials)", "qty": "1", "rate": "$140.00", "amount": "$140.00" },
+      { "description": "Drywall mud, tape, and texturing spray (Materials)", "qty": "1", "rate": "$35.00", "amount": "$35.00" },
+      { "description": "Debris removal & haul away", "qty": "1", "rate": "$25.00", "amount": "$25.00" }
+    ],
+    "sample_breakdown_subtotal": "$462.50",
+    "sample_breakdown_tax_label": "Sales tax (6.0% on materials only)",
+    "sample_breakdown_tax": "$10.50",
+    "sample_breakdown_balance": "$473.00",
+    "sample_breakdown_notes": "Payment due upon completion. Thank you for your business! Please leave a review on our Google/Yelp page.",
+    "industry_notes_title": "Handyman-specific billing notes",
+    "industry_notes": [
+      { "title": "Licensing limits", "text": "In many states, unlicensed handymen are legally restricted from doing jobs over a certain dollar amount (e.g., $500 or $1,000) or performing specialized electrical/plumbing work. Ensure your invoices don't document you doing work outside your legal limits." },
+      { "title": "Material markups", "text": "It is standard practice to mark up materials you purchase for the client by 15-30% to cover the time spent sourcing, buying, and transporting them. You can present this simply as the 'price' of the material on the invoice without explicitly calling it a markup." },
+      { "title": "Sales tax on minor repairs", "text": "Tax laws vary wildly, but generally, real property improvements are taxed differently than tangible personal property repairs. Often, as a handyman, you pay sales tax at the register at Home Depot and do not need to charge the customer secondary sales tax, but always consult a local CPA." }
+    ],
+    "mistakes_title": "Three mistakes handymen make on invoices",
+    "mistakes": [
+      { "title": "Not charging for the hardware store run", "text": "If a job takes 1 hour, but you spent 45 minutes driving to the hardware store and browsing the aisles for the right screw, you worked for 1 hour and 45 minutes. Bill for your procurement time." },
+      { "title": "Using messy, handwritten carbon copies", "text": "Scribbling on a carbon-copy pad in your truck makes you look like an amateur, making it harder to justify premium $75-$100/hr rates. A digital PDF invoice elevates your perceived value instantly." },
+      { "title": "Forgetting small hardware costs", "text": "A handful of screws, wire nuts, and caulk here and there add up. Either add a flat 'Shop Supplies: $15' line to every invoice, or strictly itemize them. Don't bleed profit on consumables." }
+    ],
+    "pro_tip": "If a customer asks for a 'quick favor' while you're packing up your tools (e.g., 'While you're here, can you look at this loose hinge?'), always say yes, but explicitly state, 'Sure, I can add that to the invoice for an extra half-hour of labor.' It stops scope creep dead in its tracks.",
+    "when_to_use_each_format_title": "Which file format should I use?",
+    "format_pdf_desc": "PDF is the best choice. Generate it on your phone, email or text it to the homeowner, and let them pay via a link. It's clean, fast, and modern.",
+    "format_word_desc": "Word is not recommended for mobile work. It's too clunky to edit from the cab of a truck.",
+    "format_excel_desc": "Excel is unnecessary for small residential repairs and is difficult to use on a smartphone screen.",
+    "faqs": [
+      {
+        "question": "Should I charge by the hour or flat rate?",
+        "answer": "For highly predictable tasks (like mounting a TV), flat rates are great and highly profitable. For unpredictable tasks (like tracing a leak or assembling complex furniture), hourly billing protects you from losing money if it takes twice as long as expected."
+      },
+      {
+        "question": "Can I ask for money upfront?",
+        "answer": "For small jobs under $500, no. For larger jobs (like building a deck or a multi-day paint job), it is completely standard to invoice for a 30-50% materials deposit before work begins."
+      },
+      {
+        "question": "How do I deal with a customer who won't pay?",
+        "answer": "A clear, signed invoice is your best defense. If they refuse to pay after completion, having a detailed invoice allows you to pursue small claims court or file a mechanic's lien on the property, depending on your local laws."
+      }
+    ],
+    "related": [
+      { "name": "Plumbing", "slug": "plumbing" },
+      { "name": "Electrician", "slug": "electrician" }
+    ]
+  },
+  {
+    "slug": "videography",
+    "niche": "Videography",
+    "title": "Free Videography Invoice Template (PDF, Word) | Invoicor",
+    "meta_description": "Download our free videography invoice template. Learn how to bill for day rates, editing hours, drone fees, and music licensing perfectly.",
+    "h1": "Free Videography Invoice Template",
+    "subtitle": "A complete invoicing guide for freelance videographers and filmmakers. Learn how to structure production day rates, post-production editing, and licensing rights to protect your footage and profits.",
+    "intro_paragraph": "A videography invoice is more complex than standard billing because video production occurs in three distinct phases: pre-production (planning), production (shooting), and post-production (editing). If you bundle all of this into a single price on your invoice, clients won't understand the massive amount of work involved, making them more likely to push back on your total. A professional videography invoice itemizes these phases, includes necessary equipment rental fees, and outlines the exact usage rights the client is purchasing.",
+    "what_to_include_intro": "To justify premium video rates, your invoice must break down the sheer logistics of video production, from camera gear to editing hours.",
+    "req_1_title": "Production Day Rates / Half-Day Rates",
+    "req_1_text": "Videographers generally bill for the shoot using a Day Rate (10 hours) or Half-Day Rate (5 hours). List this explicitly, e.g., 'Director of Photography - Day Rate'. This covers your time on set.",
+    "req_2_title": "Post-Production / Editing Hours",
+    "req_2_text": "Editing usually takes twice as long as shooting. Break out your editing time into a separate line item, either as a flat fee ('Post-Production: 60-second highlight reel') or hourly ('Editing: 15 hrs @ $80/hr').",
+    "req_3_title": "Gear and Equipment Fees",
+    "req_3_text": "Even if you own the camera, you should charge a rental fee for it. List 'Camera Package (Sony FX6 + Lenses)', 'Lighting/Grip Package', and 'Drone Operation Fee'. This shows the client the value of the assets you are bringing to the shoot.",
+    "req_4_title": "Music and Asset Licensing",
+    "req_4_text": "If you had to purchase a commercial license for a music track or stock footage, list it as a reimbursable expense. This ensures you aren't paying for their soundtrack out of your own pocket.",
+    "req_5_title": "Deliverables and Revisions",
+    "req_5_text": "Specify exactly what the final delivery includes (e.g., 'One 2-minute 4K video, plus two 15-second vertical cuts for social'). Critically, add a line stating: 'Includes 2 rounds of editing revisions. Additional rounds billed at $100/hr.'",
+    "req_6_title": "Payment Terms and Watermarks",
+    "req_6_text": "In the notes section, specify that the final, unwatermarked high-resolution video file will only be delivered via download link *after* the final invoice balance is paid in full.",
+    "what_to_include_outro": "By segmenting your invoice into Pre-Pro, Production, and Post-Pro, you educate the client on the filmmaking process and provide a bulletproof justification for your final total.",
+    "sample_breakdown_title": "Sample commercial videography invoice",
+    "sample_breakdown_intro": "Here is an invoice for a two-day commercial shoot for a local business, including editing and gear.",
+    "sample_breakdown_rows": [
+      { "description": "Production: DP Day Rate (2 Days)", "qty": "2", "rate": "$800.00", "amount": "$1,600.00" },
+      { "description": "Gear: Cinema Camera & Lighting Package", "qty": "2 days", "rate": "$300.00/day", "amount": "$600.00" },
+      { "description": "Post-Production: Editing & Color Grading", "qty": "16 hrs", "rate": "$75.00/hr", "amount": "$1,200.00" },
+      { "description": "Music Licensing (Commercial Web Use)", "qty": "1", "rate": "$199.00", "amount": "$199.00" },
+      { "description": "Drone Operation Add-On", "qty": "1", "rate": "$250.00", "amount": "$250.00" }
+    ],
+    "sample_breakdown_subtotal": "$3,849.00",
+    "sample_breakdown_deposit": "-$1,924.50",
+    "sample_breakdown_deposit_label": "Less 50% Upfront Deposit",
+    "sample_breakdown_balance": "$1,924.50",
+    "sample_breakdown_notes": "Balance due upon receipt. Unwatermarked 4K ProRes files will be released via Frame.io link once final payment clears. Includes commercial web licensing; broadcast TV licensing negotiated separately.",
+    "industry_notes_title": "Videography-specific billing notes",
+    "industry_notes": [
+      { "title": "Raw footage release", "text": "Never include RAW footage by default. If a client wants the RAW files, that is a 'copyright buyout' or 'raw footage release' and should be billed as a premium line item, often costing 50% to 100% of the total project fee." },
+      { "title": "Hard drive expenses", "text": "For massive projects requiring dedicated SSDs for delivery or archiving, purchase the drive and bill it directly to the client as an expense line item." },
+      { "title": "Crew and subcontractors", "text": "If you hired a sound mixer or a PA, bundle their day rate plus a 15-20% markup into your invoice to cover the administrative overhead of hiring and managing them." }
+    ],
+    "mistakes_title": "Three mistakes videographers make on invoices",
+    "mistakes": [
+      { "title": "Unlimited revision rounds", "text": "Video editing is tedious. If your invoice doesn't cap revisions (e.g., 'Includes 2 rounds of notes'), a picky client will demand tiny tweaks forever, driving your effective hourly rate down to minimum wage." },
+      { "title": "Not separating shooting from editing", "text": "If a client cancels the edit because they decided to use an in-house editor, but you only quoted a flat '$3,000 for a video', you have no baseline to bill them just for the shooting day. Always itemize the phases." },
+      { "title": "Surprise travel expenses", "text": "If you have to drive 2 hours to the location, bill for mileage or a flat travel day rate. Do not surprise them with a $200 gas bill at the end; quote the travel fee upfront and itemize it on the final invoice." }
+    ],
+    "pro_tip": "Use a platform like Frame.io for client reviews, and keep a subtle watermark on the video during the revision process. Only remove the watermark and provide the final download link after the Invoicor payment link has been paid. This guarantees you never have to chase a client for payment after they post the video to Instagram.",
+    "when_to_use_each_format_title": "Which file format should I use?",
+    "format_pdf_desc": "PDF is standard. It is clean, locks the text, and looks professional. Attach it to your final delivery email or send it alongside your final Frame.io review link.",
+    "format_word_desc": "Not recommended. Clients can accidentally edit the terms or amounts, creating a legal grey area.",
+    "format_excel_desc": "Excel is great for pre-production budgeting (line-producing) on large commercial sets with dozens of crew members, but the final invoice presented to the client should still be a clean PDF.",
+    "faqs": [
+      {
+        "question": "What is a 'Day Rate'?",
+        "answer": "A Day Rate is a flat fee charged for a standard day of shooting, usually 10 hours in the film industry. If the shoot goes over 10 hours, you should bill for 'Overtime' at 1.5x your hourly rate."
+      },
+      {
+        "question": "Do I need to charge tax on videos?",
+        "answer": "In most states, digital video files delivered via the internet are not subject to sales tax. However, if you deliver the final video on a physical USB drive or DVD, the entire project may suddenly become taxable. Check your state's specific digital goods laws."
+      },
+      {
+        "question": "How do I handle deposits?",
+        "answer": "Always collect a 50% non-refundable deposit before securing dates or renting gear. Invoice for the remaining 50% upon final delivery."
+      }
+    ],
+    "related": [
+      { "name": "Photography", "slug": "photography" },
+      { "name": "Freelance Design", "slug": "freelance-design" }
+    ]
+  },
+  {
+    "slug": "landscaping",
+    "niche": "Landscaping",
+    "title": "Free Landscaping Invoice Template (PDF, Excel) | Invoicor",
+    "meta_description": "Free landscaping and lawn care invoice template. Learn how to bill for recurring cuts, itemize mulch and dump fees, and improve cash flow.",
+    "h1": "Free Landscaping Invoice Template",
+    "subtitle": "A complete guide and template for landscaping and lawn care businesses. Learn how to manage recurring billing, separate materials from labor, and ensure you get paid on time.",
+    "intro_paragraph": "Landscaping businesses face unique billing challenges: you have high-frequency, low-ticket recurring services (weekly mowing) mixed with low-frequency, high-ticket project work (hardscaping, spring cleanouts). A one-size-fits-all receipt won't work. Your invoices need to be efficient enough to process 40 lawns a week, but detailed enough to justify a $5,000 patio install. This guide provides the exact templates and line items you need to streamline your route billing and protect your margins on big projects.",
+    "what_to_include_intro": "Clarity is crucial in landscaping invoices. Homeowners need to know exactly which dates you mowed, and exactly how many yards of mulch they are paying for.",
+    "req_1_title": "Service dates for recurring work",
+    "req_1_text": "If you bill monthly for weekly mowing, list the exact dates service was provided (e.g., 'Lawn Maintenance: May 4, May 11, May 18, May 25'). This stops clients from arguing that you 'missed a week' when they see the monthly total.",
+    "req_2_title": "Materials and volume breakdowns",
+    "req_2_text": "When installing mulch, soil, or stone, list the volume and the price per unit: 'Premium Cedar Mulch - 5 Cubic Yards @ $65/yd'. Do not just write 'Mulch: $325'. Itemizing volume justifies the cost.",
+    "req_3_title": "Dump and disposal fees",
+    "req_3_text": "If you do a massive fall leaf cleanout or brush clearing, list 'Debris Haul Away & Dump Fee' as a separate line. Dump fees are expensive; passing this cost explicitly to the customer protects your labor profit.",
+    "req_4_title": "Clear description of labor vs. flat rates",
+    "req_4_text": "For specific tasks like 'Core Aeration' or 'Shrub Trimming', flat rates are easiest to bill. If a task was open-ended (like weeding a massive overgrown bed), bill it as 'Labor: 4 hours @ $60/hr'.",
+    "req_5_title": "Sales tax on materials",
+    "req_5_text": "In most states, the plants and mulch you install are taxable, while the labor to mow a lawn is not. Separate your materials from your labor so you can apply the correct tax rate to the right lines.",
+    "req_6_title": "Prompt payment terms",
+    "req_6_text": "State 'Due on Receipt' or 'Net 15'. Because lawn care is a recurring service, you cannot afford to let clients float balances for 60 days while you continue to buy gas and pay crews to service their property.",
+    "what_to_include_outro": "By providing itemized, date-specific invoices, you eliminate homeowner confusion, justify your material markups, and make it easy for them to just pay the bill.",
+    "sample_breakdown_title": "Sample spring cleanout & mulch invoice",
+    "sample_breakdown_intro": "Here is a standard invoice for a heavy spring cleanout, demonstrating how to separate labor, materials, and disposal.",
+    "sample_breakdown_rows": [
+      { "description": "Spring Cleanout Labor (Bed edging, weeding, pruning)", "qty": "6 hrs", "rate": "$65.00/hr", "amount": "$390.00" },
+      { "description": "Premium Brown Mulch (taxable)", "qty": "4 yds", "rate": "$70.00/yd", "amount": "$280.00" },
+      { "description": "Pre-emergent Weed Control Application", "qty": "1", "rate": "$45.00", "amount": "$45.00" },
+      { "description": "Yard Waste Haul Away & Dump Fee", "qty": "1", "rate": "$85.00", "amount": "$85.00" }
+    ],
+    "sample_breakdown_subtotal": "$800.00",
+    "sample_breakdown_tax_label": "Sales tax (6.0% on mulch only)",
+    "sample_breakdown_tax": "$16.80",
+    "sample_breakdown_balance": "$816.80",
+    "sample_breakdown_notes": "Payment due upon receipt. Thank you for your business! Ask about our weekly lawn maintenance packages.",
+    "industry_notes_title": "Landscaping-specific billing notes",
+    "industry_notes": [
+      { "title": "Weather delays", "text": "If you bill per cut and a rainy week prevents you from mowing, simply don't invoice for that date. If you bill a flat 'Seasonal Retainer' (e.g., $200/mo regardless of cuts), ensure your contract explicitly states that weather delays do not reduce the monthly fee." },
+      { "title": "Material markups", "text": "It is standard to mark up bulk materials (mulch, soil, plants) by 20-50% over your wholesale cost. This covers your time spent driving to the nursery, loading the trailer, and the wear and tear on your truck." },
+      { "title": "Hardscaping deposits", "text": "If you are installing a $15,000 paver patio, never float the cost of the stone. Issue an invoice for a 50% materials deposit before the pavers are even ordered." }
+    ],
+    "mistakes_title": "Three mistakes landscapers make on invoices",
+    "mistakes": [
+      { "title": "Waiting until the end of the month to bill everything", "text": "If you do a $500 mulch job on May 2nd, do not wait until June 1st to send the monthly bill. Bill large project work immediately upon completion. Only bundle the weekly $50 mowing charges into a monthly invoice." },
+      { "title": "Leaving paper invoices in the door", "text": "Tucking a paper invoice into the screen door leads to lost bills, 'I never got it' excuses, and chasing checks. Email or text a digital PDF invoice with a payment link to get paid in 24 hours." },
+      { "title": "Not charging for 'extras'", "text": "The homeowner asks you to 'just quickly trim this tree' while you are mowing. If you don't add a $25 line item for it on the invoice, you are giving away your time for free." }
+    ],
+    "pro_tip": "Move your recurring mowing clients to 'Auto-Pay' if your software supports it. Keep their card on file, automatically generate the invoice on the 1st of the month, and charge the card. It eliminates accounts receivable entirely for your baseline route.",
+    "when_to_use_each_format_title": "Which file format should I use?",
+    "format_pdf_desc": "PDF is ideal. It presents a professional image and is easy to email or text to clients from your truck at the end of the day.",
+    "format_word_desc": "Word is not recommended as it's hard to format on mobile devices.",
+    "format_excel_desc": "Excel can be useful internally for routing and calculating total yards of mulch needed for the week, but the customer should always receive a locked PDF invoice.",
+    "faqs": [
+      {
+        "question": "Should I bill weekly or monthly for mowing?",
+        "answer": "Billing monthly reduces administrative work, but it means you float the labor and gas costs for 30 days. Most established companies bill monthly; newer companies building cash flow often bill weekly or require a card on file."
+      },
+      {
+        "question": "How do I handle sales tax on landscaping?",
+        "answer": "It varies by state. In some states, landscaping services (mowing) are fully taxable. In others, only the installation of tangible goods (planting a tree) is taxable. Check with your local department of revenue."
+      },
+      {
+        "question": "Can I charge a late fee?",
+        "answer": "Yes, specify in your invoice notes: 'A $15 late fee will be applied to balances over 30 days past due.' Enforcing it usually trains chronic late-payers to pay on time."
+      }
+    ],
+    "related": [
+      { "name": "Handyman", "slug": "handyman" },
+      { "name": "Cleaning Services", "slug": "cleaning-services" }
+    ]
+  },
+  {
+    "slug": "consulting",
+    "niche": "Consulting",
+    "title": "Free Consulting Invoice Template (PDF, Word, Excel) | Invoicor",
+    "meta_description": "Free consulting invoice template. Learn how to bill corporate clients for retainers, hourly advisory, and travel expenses securely and professionally.",
+    "h1": "Free Consulting Invoice Template",
+    "subtitle": "A complete invoicing guide for business consultants, coaches, and strategic advisors. Learn how to structure retainers, itemize travel expenses, and navigate corporate Accounts Payable departments.",
+    "intro_paragraph": "Consultants sell invisible products: expertise, strategy, and time. Because there is no physical deliverable to point to, your invoice serves as the primary physical manifestation of your professionalism. If you send a Fortune 500 company a poorly formatted invoice without an SOW number or a W-9 attached, their Accounts Payable department will reject it, delaying your payment by weeks. This guide provides the exact corporate-ready invoice structure you need to get paid smoothly and on time.",
+    "what_to_include_intro": "Corporate AP departments look for very specific markers on an invoice before they cut a check. Your invoice must speak their language.",
+    "req_1_title": "SOW or PO Numbers",
+    "req_1_text": "If you are working for a large corporation, they will issue you a Purchase Order (PO) or sign a Statement of Work (SOW). This number MUST be on your invoice (e.g., 'Ref: PO# 88492'). If it's missing, AP will kick the invoice back.",
+    "req_2_title": "Clear Billing Structure (Hourly vs Retainer)",
+    "req_2_text": "If billing hourly, attach a timesheet or list the dates, hours, and tasks. If billing a flat monthly retainer, explicitly state the coverage period (e.g., 'Strategic Advisory Retainer: October 1 - October 31').",
+    "req_3_title": "Itemized Reimbursable Expenses",
+    "req_3_text": "Flights, hotels, and client dinners should be listed as separate line items under an 'Expenses' header. You must attach digital copies of the receipts to the invoice email, or corporate will not reimburse you.",
+    "req_4_title": "Your Legal Entity and Tax Info",
+    "req_4_text": "Your invoice must clearly state your business's legal name (e.g., Jane Doe Consulting LLC) and address. This must match the W-9 you provided them exactly, or the payment will be flagged.",
+    "req_5_title": "Wire / ACH Payment Instructions",
+    "req_5_text": "Corporate clients rarely pay $15,000 invoices via credit card. Include a section at the bottom of your invoice titled 'Remittance Details' featuring your Bank Name, Routing Number, and Account Number for ACH transfers.",
+    "req_6_title": "Net Terms",
+    "req_6_text": "Specify the payment terms agreed upon in your contract. 'Net 30' (payment due 30 days from the invoice date) is standard in B2B consulting, but explicitly writing it sets the legal clock ticking.",
+    "what_to_include_outro": "A consultant's invoice should be boring, precise, and highly detailed. The easier you make it for a corporate accountant to verify your contract and expenses, the faster the money hits your account.",
+    "sample_breakdown_title": "Sample corporate consulting invoice",
+    "sample_breakdown_intro": "Here is an example of an invoice for a monthly retainer plus reimbursable travel expenses for an on-site workshop.",
+    "sample_breakdown_rows": [
+      { "description": "Monthly Advisory Retainer (November 2024)", "qty": "1", "rate": "$5,000.00", "amount": "$5,000.00" },
+      { "description": "Additional Hourly Consulting (Out of Scope) - Nov 12", "qty": "4 hrs", "rate": "$250.00/hr", "amount": "$1,000.00" },
+      { "description": "Expense: Roundtrip Airfare (NYC to CHI) - Receipts Attached", "qty": "1", "rate": "$450.00", "amount": "$450.00" },
+      { "description": "Expense: Hotel Accommodation (2 Nights) - Receipts Attached", "qty": "1", "rate": "$680.00", "amount": "$680.00" }
+    ],
+    "sample_breakdown_subtotal": "$7,130.00",
+    "sample_breakdown_balance": "$7,130.00",
+    "sample_breakdown_notes": "Reference PO# 99348-A. Payment terms: Net 30. Please remit payment via ACH to: Chase Bank, Routing: XXXXXX, Acct: XXXXXX. All expense receipts are attached as a separate PDF.",
+    "industry_notes_title": "Consulting-specific billing notes",
+    "industry_notes": [
+      { "title": "Tax implications", "text": "In the vast majority of jurisdictions, professional consulting and strategic advisory services are exempt from sales tax. However, you will be issued a 1099-NEC at the end of the year by the client, making you responsible for self-employment tax." },
+      { "title": "The W-9 requirement", "text": "Always send a filled-out W-9 form along with your very first invoice to a new corporate client. Their accounting department cannot process your first payment without it, and waiting for them to ask for it delays your money." },
+      { "title": "Expense markups", "text": "Some consulting contracts allow for an administrative markup on expenses (e.g., billing expenses at cost + 10%). If your contract allows this, ensure it is calculated correctly on the invoice line items." }
+    ],
+    "mistakes_title": "Three mistakes consultants make on invoices",
+    "mistakes": [
+      { "title": "Vague task descriptions", "text": "Writing 'Consulting: 10 hours' is begging for an audit. Write 'Consulting: Q3 Marketing Strategy Review, Board Deck Preparation, and Executive Coaching.' Specificity justifies the high hourly rate." },
+      { "title": "Forgetting to bill for travel time", "text": "If you spent 6 hours on a plane traveling to a client's headquarters, that is billable time. Most consultants bill travel time at 50% of their standard hourly rate. Itemize this explicitly: 'Travel Time (Half-Rate): 6 hrs'." },
+      { "title": "Accepting Net-90 terms", "text": "Massive corporations will try to force Net-60 or Net-90 payment terms on you. Fight this in the contracting phase, and make sure your invoice explicitly states the agreed-upon Net-15 or Net-30 to prevent them from stretching your cash flow." }
+    ],
+    "pro_tip": "Move from hourly billing to value-based retainers whenever possible. Instead of billing 20 hours at $250/hr, bill a flat $5,000 monthly retainer. It simplifies your invoice to a single line item, guarantees your income, and stops the client from micromanaging how many minutes you spent on a phone call.",
+    "when_to_use_each_format_title": "Which file format should I use?",
+    "format_pdf_desc": "PDF is mandatory. It looks professional, locks the numbers, and is the universally accepted format for corporate Accounts Payable software (like Coupa or SAP).",
+    "format_word_desc": "Never use Word. It is unprofessional and insecure for financial documents.",
+    "format_excel_desc": "You can use Excel to build a detailed timesheet or expense report, but convert it to a PDF, or attach it as a secondary document behind your main PDF invoice.",
+    "faqs": [
+      {
+        "question": "How do I invoice for a retainer?",
+        "answer": "Invoice for the retainer on the 1st of the month, or the 1st of the billing cycle, for the month *ahead*. Retainers are paid to secure your future availability, not as arrears for past work."
+      },
+      {
+        "question": "Should I charge late fees to corporate clients?",
+        "answer": "Yes, but with tact. Include a late fee clause (e.g., 1.5% per month) in your MSA and on the invoice. If a Fortune 500 company is 5 days late due to bureaucracy, don't enforce it. If they are 45 days late, enforce it to get AP's attention."
+      },
+      {
+        "question": "Can I use credit card payments for consulting?",
+        "answer": "You can, but be wary of fees. A 2.9% Stripe fee on a $15,000 invoice is $435. It is usually much better to provide ACH details for large consulting invoices to avoid processing fees."
+      }
+    ],
+    "related": [
+      { "name": "Freelance Design", "slug": "freelance-design" },
+      { "name": "Photography", "slug": "photography" }
+    ]
+  },
+  {
+    "slug": "cleaning-services",
+    "niche": "Cleaning Services",
+    "title": "Free Cleaning Service Invoice Template | Invoicor",
+    "meta_description": "Free invoice template for residential and commercial cleaning services. Learn how to bill for recurring cleans, deep cleans, and manage lock-out fees.",
+    "h1": "Free Cleaning Service Invoice Template",
+    "subtitle": "A complete guide and template for residential cleaners and commercial janitorial companies. Learn to structure your pricing, handle add-ons, and eliminate unpaid bills.",
+    "intro_paragraph": "Cleaning businesses operate on volume and speed. Whether you clean three houses a day or manage nightly janitorial contracts for office buildings, your invoicing process must be frictionless. If you rely on clients leaving checks on the kitchen counter, you will inevitably spend your evenings tracking down late payments. A professional, digital invoice allows you to itemize your services, charge for special requests, and collect payments automatically.",
+    "what_to_include_intro": "A cleaning invoice must clearly state the date of service, the type of clean performed, and any specific add-ons the client requested.",
+    "req_1_title": "Type of Service (Standard vs Deep Clean)",
+    "req_1_text": "Always specify the level of service. 'Standard Bi-Weekly Clean' carries a very different expectation and price point than a 'Move-In/Move-Out Deep Clean'. Being specific prevents clients from complaining that you didn't clean inside the oven on a standard rate.",
+    "req_2_title": "Service Location and Date",
+    "req_2_text": "Especially for commercial cleaners or clients with multiple properties (like Airbnb hosts), clearly list the exact address cleaned and the date the service was performed.",
+    "req_3_title": "Square Footage or Hourly Rate",
+    "req_3_text": "If you quote based on the size of the home, list the square footage as the quantity (e.g., 2,500 sq ft @ $0.08/sq ft). If you bill hourly for post-construction cleanup, list the hours and the rate.",
+    "req_4_title": "Itemized Add-Ons",
+    "req_4_text": "If the client asked you to clean the interior windows or wash a load of laundry, list these as separate 'Add-On' line items. This trains the client that extra work costs extra money.",
+    "req_5_title": "Lock-out or Cancellation Fees",
+    "req_5_text": "If you arrived at a house and the door was locked or the client cancelled 10 minutes prior, bill them a 'Lock-out Fee' (usually 50% of the standard rate) to cover your crew's lost time and gas.",
+    "req_6_title": "Clear Payment Terms",
+    "req_6_text": "For residential, 'Due on Receipt' or 'Due Day of Service' is mandatory. For commercial office contracts, 'Net 15' or 'Net 30' is standard.",
+    "what_to_include_outro": "By standardizing your invoice descriptions, you protect yourself from scope creep (doing deep-clean work for standard-clean prices) and maintain a highly professional image.",
+    "sample_breakdown_title": "Sample residential cleaning invoice",
+    "sample_breakdown_intro": "Here is an invoice for a bi-weekly residential client who requested a few extra chores during the visit.",
+    "sample_breakdown_rows": [
+      { "description": "Standard Bi-Weekly House Clean (May 14)", "qty": "1", "rate": "$140.00", "amount": "$140.00" },
+      { "description": "Add-On: Clean interior of refrigerator", "qty": "1", "rate": "$35.00", "amount": "$35.00" },
+      { "description": "Add-On: Change bed linens (2 beds)", "qty": "2", "rate": "$10.00", "amount": "$20.00" }
+    ],
+    "sample_breakdown_subtotal": "$195.00",
+    "sample_breakdown_balance": "$195.00",
+    "sample_breakdown_notes": "Payment due upon receipt. Thank you for choosing us! Reminder: Cancellations with less than 24 hours notice are subject to a $50 fee.",
+    "industry_notes_title": "Cleaning-specific billing notes",
+    "industry_notes": [
+      { "title": "Sales tax on cleaning", "text": "Sales tax on cleaning is highly dependent on your state and the *type* of cleaning. For example, in New York, commercial cleaning and janitorial services are subject to sales tax, but interior residential cleaning is largely exempt. Always consult your state's tax authority." },
+      { "title": "Airbnb / Short-term rentals", "text": "If you clean Airbnbs, you are the host's most important partner. Send your invoices immediately upon completion so the host can charge the guest for any excessive messes or damages you report." },
+      { "title": "Commercial retainers", "text": "For office buildings, bill a flat monthly fee (e.g., $1,200/month for 3x/week cleaning) rather than billing per visit. Issue the invoice on the 1st of the month." }
+    ],
+    "mistakes_title": "Three mistakes cleaners make on invoices",
+    "mistakes": [
+      { "title": "Accepting personal checks left on the counter", "text": "Checks bounce, get lost, or the client 'forgets' to leave one. Transition your clients to digital invoices where they can pay via credit card or Apple Pay to guarantee your cash flow." },
+      { "title": "Not defining the 'Initial Clean' price", "text": "The first time you clean a house, it takes twice as long. Always quote and invoice the first visit as an 'Initial Deep Clean' at a higher rate, before transitioning them to the lower 'Maintenance Clean' rate on future invoices." },
+      { "title": "Failing to charge for biohazards", "text": "If a rental property requires cleaning up pet waste, mold, or severe hoarding, do not do it for the standard rate. Add a 'Heavy Duty / Biohazard Surcharge' to compensate for the risk and extra chemicals required." }
+    ],
+    "pro_tip": "If a client is consistently happy with your work, use the invoice notes to ask for a referral: 'Love coming home to a clean house? Refer a neighbor and get $25 off your next clean!' It's a free marketing channel.",
+    "when_to_use_each_format_title": "Which file format should I use?",
+    "format_pdf_desc": "PDF is the best. Generate it via a mobile app, email it to the client, and move on to the next house.",
+    "format_word_desc": "Do not use Word. It requires a desktop computer, which slows down your billing process.",
+    "format_excel_desc": "Excel is helpful internally for tracking which crew members cleaned which houses for payroll purposes, but the client should receive a PDF.",
+    "faqs": [
+      {
+        "question": "Can I set up automatic billing for weekly clients?",
+        "answer": "Yes. Using modern invoicing software, you can set up a recurring invoice that automatically emails the client every Friday, or even auto-charges their card on file."
+      },
+      {
+        "question": "Should I invoice before or after the clean?",
+        "answer": "For residential, invoice immediately after the clean is finished. For commercial, invoice on the 1st of the month for the month's contracted services."
+      },
+      {
+        "question": "How do I deal with clients who say 'it wasn't clean enough'?",
+        "answer": "Always require payment on the day of service. Offer a '24-hour guarantee' where you will return to fix any missed spots for free, but do not allow them to withhold payment for weeks over minor complaints."
+      }
+    ],
+    "related": [
+      { "name": "Landscaping", "slug": "landscaping" },
+      { "name": "Handyman", "slug": "handyman" }
+    ]
+  },
+  {
+    "slug": "auto-detailing",
+    "niche": "Auto Detailing & Mechanics",
+    "title": "Free Auto Detailing & Mechanic Invoice Template | Invoicor",
+    "meta_description": "Free invoice template for mobile auto detailers and mechanics. Bill for ceramic coatings, parts markups, and document vehicle VINs professionally.",
+    "h1": "Free Auto Detailing & Mechanic Invoice Template",
+    "subtitle": "A complete invoicing guide for auto detailers, mobile mechanics, and tint shops. Learn how to structure service packages, document vehicle conditions, and upsell effectively on paper.",
+    "intro_paragraph": "Automotive services require meticulous record-keeping. Whether you are installing a $1,500 ceramic coating or replacing brake pads in a customer's driveway, your invoice is both a receipt and a vehicle maintenance record. A properly structured invoice protects you from liability claims, clearly separates parts from labor, and provides a professional edge that justifies premium pricing over the 'guy down the street.'",
+    "what_to_include_intro": "An automotive invoice must tie the specific services and parts to a specific vehicle, protecting both your business and the customer's warranty.",
+    "req_1_title": "Vehicle Information (VIN, Make, Model)",
+    "req_1_text": "Always include the Year, Make, Model, License Plate, and VIN (Vehicle Identification Number) at the top of the invoice or in the notes. This proves exactly which car you worked on, which is vital for Carfax reporting or warranty claims.",
+    "req_2_title": "Package or Flat-Rate Descriptions",
+    "req_2_text": "If detailing, don't just write 'Car Wash'. Write 'Premium Exterior Detail: Wash, clay bar, iron decontamination, and 6-month silica sealant.' This justifies the $200 price tag.",
+    "req_3_title": "Itemized Parts and Fluids",
+    "req_3_text": "For mechanics, explicitly list parts separately from labor. 'OEM Brake Pads (Front)', 'Synthetic Oil (5W-30) 6 Quarts'. This is required by law in many states to ensure transparent automotive repair billing.",
+    "req_4_title": "Upsells and Add-ons",
+    "req_4_text": "If you are on-site and the customer agrees to add 'Pet Hair Removal' or 'Headlight Restoration', add it as a distinct line item to show the added value.",
+    "req_5_title": "Pre-existing Damage Notes",
+    "req_5_text": "If you notice a deep scratch on the door or a torn leather seat before you start working, document it in the invoice notes. This prevents the customer from claiming you caused the damage during the detail or repair.",
+    "req_6_title": "Disclaimers and Warranties",
+    "req_6_text": "State the limits of your work. E.g., 'Paint correction removes 80-90% of defects; deeper scratches may remain.' For mechanics, state '30-day labor warranty; parts covered by manufacturer.'",
+    "what_to_include_outro": "Detailed automotive invoices build massive trust. When a customer sees exactly what chemicals were used or what parts were installed, they feel confident in the price they are paying.",
+    "sample_breakdown_title": "Sample auto detailing invoice",
+    "sample_breakdown_intro": "Here is an example invoice for a premium detailing package with a common upsell.",
+    "sample_breakdown_rows": [
+      { "description": "Full Interior/Exterior Detail (SUV)", "qty": "1", "rate": "$250.00", "amount": "$250.00" },
+      { "description": "Add-On: Engine Bay Cleaning & Dressing", "qty": "1", "rate": "$50.00", "amount": "$50.00" },
+      { "description": "Add-On: Heavy Pet Hair Removal Surcharge", "qty": "1", "rate": "$40.00", "amount": "$40.00" },
+      { "description": "Mobile Service Travel Fee", "qty": "1", "rate": "$25.00", "amount": "$25.00" }
+    ],
+    "sample_breakdown_subtotal": "$365.00",
+    "sample_breakdown_tax_label": "Sales tax (7.0%)",
+    "sample_breakdown_tax": "$25.55",
+    "sample_breakdown_balance": "$390.55",
+    "sample_breakdown_notes": "Vehicle: 2021 Ford Explorer (Plate: ABC-1234). Note: Pre-existing scuff on rear passenger bumper documented prior to wash. Thank you for your business!",
+    "industry_notes_title": "Automotive-specific billing notes",
+    "industry_notes": [
+      { "title": "Sales tax complexities", "text": "Auto repair taxation is heavily regulated. In many states, parts are taxable but labor is exempt. However, detailing (washing, waxing) is often considered a taxable 'maintenance service' in its entirety. You must know your local Bureau of Automotive Repair (or equivalent) tax rules." },
+      { "title": "Ceramic coating deposits", "text": "High-end services like ceramic coatings or paint protection film (PPF) take all day and require expensive upfront chemicals. Always invoice for a 25% non-refundable deposit to secure the appointment." },
+      { "title": "Shop supplies charge", "text": "Mechanics often add a 'Shop Supplies' line item (usually 5-10% of labor) to cover un-trackable consumables like brake cleaner, rags, and grease. Ensure your state allows this and cap it at a reasonable maximum." }
+    ],
+    "mistakes_title": "Three mistakes auto pros make on invoices",
+    "mistakes": [
+      { "title": "Not keeping a card on file for fleet accounts", "text": "If you wash 5 vans weekly for a local plumber, don't chase them for $200 a week. Send a monthly invoice with a 'Net 15' term, or better, keep a corporate card on file to auto-bill." },
+      { "title": "Failing to charge a mobile fee", "text": "If you are a mobile detailer or mechanic, you bring the shop to them. This is a premium convenience. Either bake a travel fee into your higher baseline prices, or list a 'Mobile Convenience Fee' explicitly. Do not absorb gas costs." },
+      { "title": "Verbal upsells without written proof", "text": "The customer verbally agrees to new wiper blades for $40 while you're under the hood. If you don't add it to the final invoice, they might 'forget' they authorized it. Put everything in writing." }
+    ],
+    "pro_tip": "If you apply a ceramic coating, use the invoice to schedule the maintenance. Write in the notes: 'To maintain coating warranty, a maintenance wash is required every 6 months. We will contact you in November to schedule.' It creates a built-in pipeline for future work.",
+    "when_to_use_each_format_title": "Which file format should I use?",
+    "format_pdf_desc": "PDF is the only acceptable format. It looks great on a smartphone screen, which is where 99% of your mobile customers will view and pay it while standing in their driveway.",
+    "format_word_desc": "Word is entirely impractical for mobile businesses.",
+    "format_excel_desc": "Excel is not suitable for customer-facing automotive receipts, though it is useful internally for tracking parts inventory.",
+    "faqs": [
+      {
+        "question": "Can I use an invoice as a repair estimate?",
+        "answer": "Yes. Many mobile mechanics draft the invoice with all parts and labor, title it 'Estimate', have the customer approve it, and then convert it to a final 'Invoice' once the work is complete."
+      },
+      {
+        "question": "Do I need to list part numbers?",
+        "answer": "It is highly recommended. Listing the exact brand and part number (e.g., 'Bosch Icon Wiper Blade 22A') proves you used quality parts rather than cheap generics."
+      },
+      {
+        "question": "How do I take payments on the go?",
+        "answer": "With a digital PDF invoice generated from an app like Invoicor, you simply text the link to the customer. They pay securely using Apple Pay or their credit card right there on their phone."
+      }
+    ],
+    "related": [
+      { "name": "Landscaping", "slug": "landscaping" },
+      { "name": "Handyman", "slug": "handyman" }
+    ]
+  }
+]

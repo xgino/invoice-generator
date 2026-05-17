@@ -1,0 +1,779 @@
+[
+  {
+    "slug": "plumbers-hvac",
+    "industry": "Plumbers & HVAC",
+    "title": "Invoicing Software for Plumbers & HVAC Contractors | Invoicor",
+    "meta_description": "The fastest invoicing app for plumbers and HVAC techs. Bill from the driveway, separate parts and labor, and let homeowners pay via credit card instantly.",
+    "icon": "Droplets",
+    "color": "blue",
+    "badge_text": "Field Service Invoicing",
+    "h1": "Invoice from the driveway. Get paid before you leave.",
+    "subtitle": "Plumbers and HVAC techs lose hours every week to evening paperwork. Invoicor lets you build a complete invoice from your phone while still on-site, separate dispatch fees from parts and labor cleanly, and let the homeowner tap-to-pay with Apple Pay before you pull out of the driveway.",
+    "industry_stats": [
+      { "label": "Typical service call value", "value": "$150 - $2,500" },
+      { "label": "Standard payment timeline", "value": "Same-day or net-15" },
+      { "label": "Preferred payment method", "value": "Card / Apple Pay" }
+    ],
+    "industry_mistakes_title": "Billing mistakes that cost plumbers and HVAC techs money",
+    "industry_mistake_1_title": "Bundling dispatch into labor.",
+    "industry_mistake_1_text": "When you roll the diagnostic or callout fee into the labor line, homeowners see an inflated hourly rate and push back. Listing dispatch as its own line item makes the cost of you driving to the property visible and defensible.",
+    "industry_mistake_2_title": "Not breaking out parts and labor.",
+    "industry_mistake_2_text": "Most US states tax materials but not labor (or tax them at different rates). One blended line item creates tax-filing headaches at year-end and often results in overpaying sales tax. Always split parts and labor into distinct rows with the correct tax flag on each.",
+    "industry_mistake_3_title": "Forgetting weekend and after-hours rates.",
+    "industry_mistake_3_text": "Emergency Saturday calls justify a premium rate, but only if it's documented on the invoice. Techs who quote a flat rate verbally and forget to apply the after-hours multiplier on the written invoice lose money on every weekend job.",
+    "feature_1_title": "One-tap callout and emergency fees",
+    "feature_1_text": "Save your standard dispatch fee, weekend multiplier, and emergency rate as reusable line items in your product library. Adding them to an invoice takes one tap, so you never forget to apply them on a Saturday job.",
+    "feature_2_title": "Separate parts and labor with tax flags",
+    "feature_2_text": "Tag materials lines as taxable and labor lines as non-taxable (or vice versa, depending on your state). Invoicor calculates the correct sales tax automatically and your year-end export is already clean for your accountant.",
+    "feature_3_title": "Tap-to-pay on the kitchen counter",
+    "feature_3_text": "Text or email the invoice link directly to the homeowner. They open it on their phone, tap Apple Pay or Google Pay, and the payment clears before you've packed up your tools. No more waiting on mailed checks.",
+    "expert_tip_title": "Pro Tip: Always list dispatch as a separate line item",
+    "expert_tip_text": "List your diagnostic or dispatch fee on its own row, distinct from the actual repair labor. This reduces sticker shock for the homeowner, justifies the cost of driving to their property, and gives you a clean upgrade path if you ever want to waive dispatch as a sales incentive on larger repair jobs.",
+    "real_scenario_title": "A typical Saturday emergency callout",
+    "real_scenario_text": "8:14 AM Saturday call: homeowner has a leaking water heater. You arrive at 8:45, diagnose a failed T&P relief valve in 15 minutes, drive to the supply house, return with the replacement part, complete the install and pressure test by 11:30. From the kitchen counter, you build the invoice in Invoicor: $95 emergency callout fee (weekend rate, non-taxable labor), $42 T&P relief valve (taxable parts), $180 install labor (1.5 hours at $120/hr, non-taxable). Total: $317 plus calculated sales tax on the part only. You text the link to the homeowner, she pays via Apple Pay while you're loading the van. You're home for lunch by noon, paid in full.",
+    "common_line_items": [
+      { "name": "Emergency Callout Fee", "desc": "Standard rate for after-hours, weekend, or holiday dispatch.", "type": "Flat Rate" },
+      { "name": "Diagnostic Fee", "desc": "Initial site visit, problem assessment, and quote preparation.", "type": "Flat Rate" },
+      { "name": "Refrigerant Recharge (R-410A)", "desc": "Refrigerant per pound, plus leak test and system performance check.", "type": "Materials + Labor" },
+      { "name": "Water Heater Flushing", "desc": "Annual maintenance: drain, flush, anode rod inspection, T&P test.", "type": "Flat Rate" },
+      { "name": "Drain Snake / Auger Service", "desc": "Mechanical clearing of clogged drain lines up to 50ft.", "type": "Hourly + Equipment" },
+      { "name": "Furnace Tune-Up", "desc": "Pre-season inspection: burner clean, filter change, safety controls test.", "type": "Flat Rate" }
+    ],
+    "industry_glossary_title": "Plumbing and HVAC billing terms explained",
+    "industry_glossary": [
+      { "term": "Callout / Dispatch Fee", "definition": "A flat fee charged for the technician arriving on-site, separate from the cost of any work performed. Justifies vehicle, fuel, and travel time. Typically $75-$150 standard, $150-$300 emergency." },
+      { "term": "T&M (Time and Materials)", "definition": "A billing method where the customer pays the actual labor hours plus the cost of materials, rather than a single flat-rate quote. Common for diagnostic or open-ended repair work." },
+      { "term": "Flat-Rate Pricing", "definition": "A fixed price for a defined service (e.g. 'water heater flush: $189') regardless of actual time spent. Protects the tech if a job runs long and gives the customer price certainty." },
+      { "term": "Rough-In", "definition": "The plumbing work installed before walls are closed up on a new build or renovation. Usually invoiced as a milestone payment, not a flat rate." },
+      { "term": "T&P Valve", "definition": "Temperature and pressure relief valve on a water heater. A common high-frequency replacement part on emergency callouts." }
+    ],
+    "tax_or_compliance_title": "Sales tax on plumbing and HVAC invoices",
+    "tax_or_compliance_text": "In most US states, materials used in plumbing and HVAC work are subject to sales tax, while labor is not. A handful of states (notably Hawaii, New Mexico, South Dakota, West Virginia) tax both. The cleanest approach: tag every line item on your invoice as either 'parts' (taxable) or 'labor' (non-taxable) at the time you create the invoice, so the tax calculation is correct by default. Invoicor's per-line tax flags handle this automatically and your year-end CSV export already has the categorization your accountant needs. Check your specific state's department of revenue for the exact rules; this is a common source of audit issues for trade businesses.",
+    "faqs": [
+      {
+        "question": "Can I separate parts and labor on the invoice with different tax rates?",
+        "answer": "Yes. Every line item has its own tax flag, so you can mark materials (PVC, copper pipe, HVAC units, refrigerant) as taxable and labor lines as non-taxable, exactly matching your state's rules. The tax total at the bottom of the invoice only applies to the lines you marked as taxable."
+      },
+      {
+        "question": "How do I handle large deposits for HVAC installs?",
+        "answer": "For high-ticket jobs like a full furnace or AC unit installation, create an invoice for the total amount and send a partial-payment request for the deposit (commonly 50%). The customer pays the deposit via card to lock in the install date. After completion, you send a second invoice for the balance, or convert the original to mark the deposit as received and bill the remaining amount."
+      },
+      {
+        "question": "Can homeowners pay without downloading an app?",
+        "answer": "Yes. The payment link goes to a secure web portal that opens in any phone or laptop browser. The homeowner taps the link, sees the full invoice, and pays with their credit card, Apple Pay, or Google Pay. No account creation, no app install, no friction. This matters for older homeowners who won't download a billing app."
+      },
+      {
+        "question": "What if I need to invoice a commercial property manager instead of a homeowner?",
+        "answer": "Same flow, but you can save the property management company as a client with their billing email and net-30 payment terms baked in. Many commercial property managers prefer email-based ACH bank transfer rather than card payments to avoid processing fees on larger invoices; Invoicor's payment link supports both."
+      },
+      {
+        "question": "Does Invoicor handle multi-truck or multi-tech operations?",
+        "answer": "Yes. If you run multiple trucks under the same business, all your techs can send invoices that flow into the same business profile, so your accounts receivable view shows every open invoice across the operation. If you run completely separate businesses (e.g. plumbing LLC and HVAC LLC under different EINs), use multi-business profile switching to keep them isolated with their own logos, tax setups, and client lists."
+      }
+    ],
+    "related": [
+      { "name": "Electricians", "slug": "electricians" },
+      { "name": "General Contractors", "slug": "general-contractors" }
+    ]
+  },
+  {
+    "slug": "freelance-designers",
+    "industry": "Freelance Designers",
+    "title": "Invoicing Software for Freelance Designers & Creatives | Invoicor",
+    "meta_description": "Invoicor helps freelance designers and creatives send beautiful, premium invoices. Collect upfront deposits and get paid faster via secure credit card links.",
+    "canonical": "https://invoicor.com/industries/freelance-designers",
+    "icon": "Sparkles",
+    "color": "pink",
+    "badge_text": "Creative Professional Billing",
+    "h1": "Send invoices that look as good as your portfolio.",
+    "subtitle": "Freelance designers charge premium rates for premium work, then send the bill from a Word doc that looks like a 2008 tax form. Invoicor lets you send brand-matched invoices, lock 50% deposits before kicking off projects, and bill in any currency for clients abroad — all without breaking the design polish your work depends on.",
+    "industry_stats": [
+      { "label": "Typical project value", "value": "$2,500 - $25,000" },
+      { "label": "Standard payment structure", "value": "50% upfront / 50% on delivery" },
+      { "label": "Preferred payment method", "value": "Card / bank transfer / Stripe" }
+    ],
+    "industry_mistakes_title": "Billing mistakes that cost freelance designers money",
+    "industry_mistake_1_title": "Starting work before the deposit clears.",
+    "industry_mistake_1_text": "The number one reason freelance designers don't get paid is that they start delivering value before the deposit is in the bank. A signed contract is not a payment. Always send the deposit invoice the moment the contract is signed, and don't open Figma until the money clears.",
+    "industry_mistake_2_title": "Not capping revision rounds in writing.",
+    "industry_mistake_2_text": "'Just one more revision' is the design industry's most expensive sentence. Specify on every invoice (and contract) exactly how many revision rounds are included in the project scope, and what the hourly rate is for additional rounds. When you have it documented, scope creep becomes additional billable work instead of an awkward conversation.",
+    "industry_mistake_3_title": "Charging international clients in dollars.",
+    "industry_mistake_3_text": "When a European client pays a USD invoice, they absorb the FX conversion cost on their end, which often inflates your invoice by 3-5% in their eyes. Sending the invoice in their local currency (EUR, GBP, AUD) makes you look more professional and removes a hesitation point. The conversion happens automatically when they pay, and the funds land in your account in your currency.",
+    "feature_1_title": "Brand-matched invoice templates",
+    "feature_1_text": "Upload your high-resolution logo (PNG with transparency for that crisp look), set your exact brand hex colors, and pick from 30 designed templates ranging from minimal Swiss-style to premium textured layouts. Your invoice arrives looking like part of your portfolio, not an afterthought.",
+    "feature_2_title": "Deposit invoices with milestone tracking",
+    "feature_2_text": "Send a 50% deposit invoice the moment the contract is signed. When the deposit clears, the milestone updates automatically. On final delivery, generate the balance invoice with one tap; the line items remember what was already paid, so your numbers always reconcile.",
+    "feature_3_title": "135+ currencies for international clients",
+    "feature_3_text": "Bill a London agency in GBP, a Berlin startup in EUR, a Sydney brand in AUD. Your client pays in their local currency via card or bank transfer; the funds land in your account in your home currency, with the FX conversion handled by Stripe. No more awkward 'just send dollars please' emails.",
+    "expert_tip_title": "Pro Tip: Always invoice the deposit before any deliverable goes out",
+    "expert_tip_text": "Set a personal rule: no mood board, no wireframe, no Figma file leaves your machine until the deposit has cleared. Not 'signed contract', not 'deposit invoice sent' — cleared. This is the single highest-leverage habit a freelance designer can build. Clients who push back on this rule are also the clients most likely to ghost on the balance payment later. Use the deposit clearance as a filter, not just a payment milestone.",
+    "real_scenario_title": "A typical brand identity project, billed",
+    "real_scenario_text": "$8,000 brand identity project, four-week timeline. Contract signed Monday. You immediately send Deposit Invoice 1001-A: $4,000 with payment terms 'due before kickoff', a 'pay by card' button, and your bank details for ACH/wire as a backup. Tuesday morning, the deposit clears via Stripe; your Invoicor app sends a push notification, you open Figma. Weeks 1-2: discovery, moodboards, logo exploration. Week 3: client picks a direction, two revision rounds (within scope). Week 4: final delivery. On the delivery day, you send Balance Invoice 1001-B: $4,000 with payment terms 'due on receipt', files attached as a ZIP, terms note that 'usage rights transfer on final payment'. Client pays Friday afternoon. Project complete, paid in full, zero awkward follow-up emails.",
+    "common_line_items": [
+      { "name": "Brand Strategy Discovery", "desc": "Stakeholder interviews, competitive audit, positioning workshop.", "type": "Phase 1" },
+      { "name": "Logo Design & Refinement", "desc": "Initial concepts (3 directions) plus two refinement rounds.", "type": "Milestone" },
+      { "name": "UI/UX Wireframing", "desc": "Low-fidelity structural wireframes for up to 5 core pages.", "type": "Milestone" },
+      { "name": "Hi-Fidelity Design", "desc": "Final pixel-perfect design files, ready for development handoff.", "type": "Milestone" },
+      { "name": "Additional Revision Round", "desc": "Hourly billing for revisions beyond the original scope.", "type": "Hourly" },
+      { "name": "Project Kill Fee", "desc": "Pre-agreed cancellation charge if the client terminates mid-project.", "type": "Flat Rate" }
+    ],
+    "industry_glossary_title": "Design billing terms explained",
+    "industry_glossary": [
+      { "term": "Deposit / Retainer", "definition": "An upfront payment (typically 50% of total project value) collected before any work begins. Protects the designer if the client cancels or ghosts mid-project. Industry standard for any project over $1,000." },
+      { "term": "Kill Fee", "definition": "A pre-agreed payment owed to the designer if the client terminates the project before completion. Usually 25-50% of the remaining balance. Specified in the contract and surfaced on the invoice as a line-item placeholder." },
+      { "term": "Usage Rights / License", "definition": "What the client is allowed to do with the final design files (commercial use, geographic scope, time limit, exclusivity). Often a separate line item on the invoice, with rights transferring only on final payment." },
+      { "term": "Net 15 / Net 30", "definition": "Payment terms specifying how many days after invoice date the payment is due. Net 15 is common for smaller freelance projects; Net 30 is standard for agency and corporate clients. Anything beyond Net 30 should be negotiated, not assumed." },
+      { "term": "MSA / SOW", "definition": "Master Services Agreement (the umbrella contract) and Statement of Work (the per-project addendum that specifies deliverables and pricing). Reference the SOW number on every invoice so larger clients can match it to their PO system." }
+    ],
+    "tax_or_compliance_title": "VAT and tax for designers billing internationally",
+    "tax_or_compliance_text": "Designers in the EU billing other EU businesses typically use the reverse-charge mechanism: your invoice excludes VAT but includes both VAT numbers and a note like 'VAT reverse-charged per Article 196 of the EU VAT Directive'. Designers in the US billing US clients generally don't charge sales tax on design services (most states classify them as non-taxable services), but a handful of states (notably Hawaii, New Mexico, South Dakota, West Virginia) do tax services — check your state's rules. UK designers post-Brexit charge VAT on UK clients only and zero-rate exports; the invoice must show your VAT number and the client's country to be compliant. Invoicor lets you save these tax configurations per business profile, so once you set it up correctly, every future invoice handles it automatically.",
+    "faqs": [
+      {
+        "question": "Can I attach my design contract or SOW to the invoice?",
+        "answer": "Yes. You can attach PDFs of your Master Services Agreement, Statement of Work, or signed contract directly to the invoice email. Larger clients with formal PO systems often require the SOW number printed on the invoice itself; you can add this as a custom field that appears at the top of the document."
+      },
+      {
+        "question": "How do I charge international clients without losing money on FX?",
+        "answer": "Invoicor supports over 135 currencies. Send the invoice in your client's local currency (EUR, GBP, AUD, etc.) and they pay via card or bank transfer in that currency. Stripe handles the FX conversion at near-interbank rates, and funds deposit into your bank in your home currency. You lose far less to FX than if you invoiced in USD and made the client absorb their bank's conversion fee."
+      },
+      {
+        "question": "Can I send a deposit invoice and a balance invoice for the same project?",
+        "answer": "Yes. The standard freelance pattern is two invoices per project: invoice A for the 50% deposit (sent at contract signing, payable before kickoff), and invoice B for the balance (sent on final delivery). Both invoices can reference the same project name or SOW number, so your client's accounting system links them automatically. Some designers also do thirds: deposit, milestone, delivery."
+      },
+      {
+        "question": "What if a client wants to pay via wire transfer instead of card?",
+        "answer": "Larger agencies and corporate clients often prefer ACH or international wire over card, because the processing fees on a $10,000 card transaction can be $300+. Invoicor invoices include your bank details (configurable per business profile) as an alternative payment method. The client picks whichever they prefer; you get paid either way."
+      },
+      {
+        "question": "How do I handle revision-round overages without ruining the client relationship?",
+        "answer": "The trick is to surface revision rounds on the original invoice as a clearly-scoped line item: 'Includes 2 revision rounds'. When the client asks for round 3, you reference the original invoice and add 'Additional Revision Round' as a new line at your hourly rate. It's now a documented scope decision rather than a surprise charge, and most clients accept it without friction because they agreed to the limit upfront."
+      }
+    ],
+    "related": [
+      { "name": "Photographers", "slug": "photographers-videographers" },
+      { "name": "Consultants", "slug": "consultants-coaches" }
+    ]
+  },
+  {
+    "slug": "landscaping-lawn-care",
+    "industry": "Landscaping & Lawn Care",
+    "title": "Invoicing Software for Landscaping & Lawn Care Businesses | Invoicor",
+    "meta_description": "The easiest way for landscapers to bill clients. Set up recurring lawn care invoices, charge for one-off mulch jobs, and get paid via card from your phone.",
+    "canonical": "https://invoicor.com/industries/landscaping-lawn-care",
+    "icon": "Leaf",
+    "color": "green",
+    "badge_text": "Outdoor Service Billing",
+    "h1": "Bill your entire route in minutes, not hours.",
+    "subtitle": "Landscaping and lawn care businesses thrive on route density and recurring revenue, but manually creating 40 weekly invoices kills your weekend. Invoicor automates your recurring billing for standard cuts, while letting you easily fire off custom invoices for one-off aeration or mulch jobs right from your truck.",
+    "industry_stats": [
+      { "label": "Typical recurring cut value", "value": "$40 - $120" },
+      { "label": "Standard payment structure", "value": "Weekly or monthly" },
+      { "label": "Preferred payment method", "value": "Auto-pay Card" }
+    ],
+    "industry_mistakes_title": "Billing mistakes that cost landscapers money",
+    "industry_mistake_1_title": "Forgetting to bill for extras.",
+    "industry_mistake_1_text": "When you do a standard cut but the homeowner asks you to trim a hedge while you're there, it's easy to forget to add that $50 charge when you finally do billing on Sunday. Mobile invoicing ensures you add the line item right from the driveway before you forget.",
+    "industry_mistake_2_title": "Accepting checks left under the mat.",
+    "industry_mistake_2_text": "Chasing down wet checks left under doormats is a massive waste of time, and depositing them takes you out of your route. Shifting clients to digital payment links means money clears into your account automatically.",
+    "industry_mistake_3_title": "Eating the cost of yard waste disposal.",
+    "industry_mistake_3_text": "Dump fees have skyrocketed. If you aren't itemizing 'Debris Removal & Disposal' on your larger cleanout jobs, you are essentially paying for the privilege of hauling away a client's yard waste out of your own profit margin.",
+    "feature_1_title": "Recurring Invoice Automation",
+    "feature_1_text": "Set up your weekly or bi-weekly mowing clients once. Invoicor will automatically generate and send the invoice on schedule, complete with a fresh payment link. You mow the lawn, the software gets you paid.",
+    "feature_2_title": "Lightning-fast one-off billing",
+    "feature_2_text": "Need to quote and bill for 10 yards of mulch? Use your saved product library to tap 'Premium Mulch (per yard)' and 'Spreading Labor'. The invoice is ready to send before you even put the truck in drive.",
+    "feature_3_title": "Offline Mode for dead zones",
+    "feature_3_text": "Working on a large rural property with no cell service? Draft the invoice offline. Invoicor will save it locally and silently sync it to the cloud the second you drive back into a coverage area.",
+    "expert_tip_title": "Pro Tip: Shift to monthly prepaid retainers",
+    "expert_tip_text": "Instead of billing per cut (which means revenue fluctuates based on rain delays), pitch clients a flat monthly 'property maintenance' retainer. It guarantees your cash flow, simplifies your billing to one invoice per month, and locks the client in for the season.",
+    "real_scenario_title": "A spring cleanout job",
+    "real_scenario_text": "You finish a massive spring cleanout at a new property. It took 3 hours, required 5 yards of fresh mulch, and resulted in a trailer full of debris. From the cab of your truck, you open Invoicor. You tap your saved items: 'Spring Cleanup Labor' (3 hrs @ $75), 'Premium Cedar Mulch' (5 yds @ $60), and 'Yard Waste Disposal Fee' (Flat $80). Total: $605. You hit send. The client gets an SMS, taps Apple Pay, and the funds are secured before you even hit the dump.",
+    "common_line_items": [
+      { "name": "Standard Lawn Maintenance", "desc": "Weekly mowing, edging, and debris blow-off.", "type": "Recurring" },
+      { "name": "Premium Mulch Installation", "desc": "Cost per cubic yard, including edge trenching and spreading.", "type": "Materials + Labor" },
+      { "name": "Core Aeration", "desc": "Mechanical core aeration of turf areas.", "type": "Flat Rate" },
+      { "name": "Debris Removal & Dump Fee", "desc": "Hauling and local municipal dump fees for yard waste.", "type": "Flat Rate" },
+      { "name": "Shrub & Hedge Trimming", "desc": "Pruning of ornamental bushes and cleanup.", "type": "Hourly" },
+      { "name": "Fertilizer Application", "desc": "Seasonal granular fertilizer and weed control.", "type": "Flat Rate" }
+    ],
+    "industry_glossary_title": "Landscaping billing terms explained",
+    "industry_glossary": [
+      { "term": "Per-Cut Billing", "definition": "Charging the client every time the property is serviced. Prone to disputes if weather delays a cut." },
+      { "term": "Seasonal Contract", "definition": "A flat fee divided evenly over 8-12 months, covering all specified maintenance regardless of how many visits actually occur." },
+      { "term": "Materials Markup", "definition": "The percentage added to the wholesale cost of plants, soil, or mulch to cover sourcing and transport before billing the client." },
+      { "term": "Hardscaping", "definition": "Non-plant construction like patios and retaining walls. Usually billed with milestone deposits due to high material costs." },
+      { "term": "Dump Fee", "definition": "The exact cost charged by the municipal waste facility to dump a trailer of yard debris, passed on to the client." }
+    ],
+    "tax_or_compliance_title": "Navigating sales tax on landscaping services",
+    "tax_or_compliance_text": "Taxation on lawn care is highly state-dependent. In places like Texas or New Jersey, landscaping and lawn care services are subject to state sales tax. In others, only tangible goods (like a tree you planted or mulch you laid) are taxed, but the labor to mow a lawn is exempt. You must know your local rules. With Invoicor, you can default your entire profile to apply tax, or manually toggle the tax flag on specific line items (e.g., taxing the mulch but not the mowing labor) to stay compliant.",
+    "faqs": [
+      {
+        "question": "Can I set up automatic weekly billing for my route?",
+        "answer": "Yes. You can configure recurring invoices to generate automatically every week or month. It takes the manual work out of your recurring route."
+      },
+      {
+        "question": "Does Invoicor help me track who hasn't paid yet?",
+        "answer": "Absolutely. The dashboard clearly highlights Overdue and Unpaid invoices, so you know exactly which clients need a reminder before you mow their lawn again."
+      },
+      {
+        "question": "Can I add photos of the completed yard work to the invoice?",
+        "answer": "Currently, Invoicor focuses on the financial document. Most pros text before/after photos directly to the client, and follow up immediately with the Invoicor payment link in the same text thread."
+      },
+      {
+        "question": "How do I handle clients who still want to pay by check?",
+        "answer": "You can manually mark an invoice as 'Paid via Check' in the app when you receive it. This keeps your records accurate even if they don't use the digital payment link."
+      },
+      {
+        "question": "What if rain delays my weekly recurring invoice?",
+        "answer": "If you bill per-cut and a rain delay happens, you can easily pause or adjust the date of the recurring invoice for that specific client before it sends."
+      }
+    ],
+    "related": [
+      { "name": "General Contractors", "slug": "general-contractors" },
+      { "name": "Cleaning Services", "slug": "cleaning-services" }
+    ]
+  },
+  {
+    "slug": "electricians",
+    "industry": "Electricians",
+    "title": "Invoicing Software for Independent Electricians | Invoicor",
+    "meta_description": "Stop doing electrical billing at night. Invoicor lets electricians build accurate, itemized invoices on-site, handle permit fees, and accept card payments instantly.",
+    "canonical": "https://invoicor.com/industries/electricians",
+    "icon": "Zap",
+    "color": "yellow",
+    "badge_text": "Trade Contractor Billing",
+    "h1": "Powerful invoicing that works where you do.",
+    "subtitle": "Electricians constantly balance high material costs (like copper wire and breaker panels) with skilled labor rates. When you rely on clunky desktop software, billing gets delayed. Invoicor gives you a mobile-first tool to itemize parts, labor, and permits perfectly from the job site, ensuring you never leave money on the table.",
+    "industry_stats": [
+      { "label": "Typical residential job", "value": "$250 - $4,000" },
+      { "label": "Standard payment timeline", "value": "Due on receipt" },
+      { "label": "Preferred payment method", "value": "Card / Bank Transfer" }
+    ],
+    "industry_mistakes_title": "Billing mistakes that short-circuit your profits",
+    "industry_mistake_1_title": "Swallowing permit and inspection fees.",
+    "industry_mistake_1_text": "Town permit fees and inspection coordination take real time and money. If you bury this in your general labor rate, you erode your margin. Create a specific 'Permitting & Inspection Fee' line item so the client sees the exact administrative cost.",
+    "industry_mistake_2_title": "Poorly tracked change orders.",
+    "industry_mistake_2_text": "You're hired to install recessed lighting, but the homeowner asks you to swap three outlets while you're there. If you don't instantly add those to the invoice, you'll forget by Friday. A mobile app ensures every 'quick favor' becomes billable revenue.",
+    "industry_mistake_3_title": "Delayed billing on commercial sub-contracts.",
+    "industry_mistake_3_text": "Commercial GCs pay slowly (often Net-30 or Net-60). If you take a week to send them your invoice, you just pushed your payday back another 7 days. Send the invoice the minute the rough-in is approved.",
+    "feature_1_title": "Detailed T&M breakdowns",
+    "feature_1_text": "Easily separate Time and Materials. Pull standard items like '14/2 Romex (per foot)' or '20A GFCI Receptacle' from your saved library, and bill labor on a separate line to keep your margins transparent (or hidden, depending on how you quote).",
+    "feature_2_title": "Works in the basement (Offline mode)",
+    "feature_2_text": "Electrical panels are often in concrete basements with zero cell reception. Invoicor's offline mode lets you draft the entire bill while standing in front of the panel. It syncs the moment you walk outside.",
+    "feature_3_title": "Instant Deposits for large rewires",
+    "feature_3_text": "Doing a $10,000 panel upgrade? Don't float the cost of the hardware. Send a 50% deposit invoice, get the client to tap-to-pay, and use their funds to buy the materials.",
+    "expert_tip_title": "Pro Tip: Charge a flat diagnostic fee, then quote the repair",
+    "expert_tip_text": "Electrical troubleshooting can take 10 minutes or 3 hours. Always bill a flat 'Diagnostic / Site Visit Fee' to find the short. Once found, quote the actual repair as a separate line item. This guarantees you are paid for your diagnostic expertise even if they decline the repair.",
+    "real_scenario_title": "The classic panel upgrade",
+    "real_scenario_text": "You just finished a 200-Amp service upgrade. You're standing in the garage. You open Invoicor, select the client, and add your saved '200A Panel Upgrade Package' line item ($3,200). You add a second line for 'Town Permit Fee' ($150, marked non-taxable). You hit send via text message. The homeowner receives a clean, professional PDF link, taps Apple Pay, and the funds are on their way to your bank account before you even load the old panel into your van.",
+    "common_line_items": [
+      { "name": "Diagnostic / Troubleshooting Fee", "desc": "Initial testing of circuits to locate faults.", "type": "Flat Rate" },
+      { "name": "200-Amp Service Upgrade", "desc": "Replacement of main panel, breakers, and grounding.", "type": "Package" },
+      { "name": "Recessed Lighting Install", "desc": "Per-fixture rate including wiring and LED trim.", "type": "Per Unit" },
+      { "name": "GFCI Receptacle Replacement", "desc": "Removal of old outlet and installation of GFCI protection.", "type": "Materials + Labor" },
+      { "name": "Permitting & Inspection Coordination", "desc": "Administrative fee for municipal paperwork.", "type": "Flat Rate" },
+      { "name": "EV Charger Installation", "desc": "Dedicated 240V circuit and wallbox mounting.", "type": "Flat Rate" }
+    ],
+    "industry_glossary_title": "Electrical billing terms explained",
+    "industry_glossary": [
+      { "term": "Rough-In", "definition": "The stage where all cables are run in the wall framing before drywall. Often the trigger for a major milestone payment." },
+      { "term": "Trim-Out", "definition": "The final stage where switches, outlets, and fixtures are installed. Usually triggers the final balance invoice." },
+      { "term": "T&M (Time and Materials)", "definition": "Billing exactly for hours worked and parts used, plus markup. Safest for complex troubleshooting." },
+      { "term": "Change Order", "definition": "Any modification to the original agreed scope. Should always be documented as a new line item or a separate invoice." },
+      { "term": "Markup", "definition": "The percentage added to wholesale material costs to cover procurement, holding, and warranty risks (standard is 20-40%)." }
+    ],
+    "tax_or_compliance_title": "Handling material markups and tax",
+    "tax_or_compliance_text": "When you buy materials at a supply house, you often pay tax. When you resell them to the client with a markup, depending on your state, you may need to charge sales tax to the end consumer and claim a credit, or you operate as the 'end consumer' of the materials. If you do need to charge sales tax on parts, Invoicor's per-line tax flags allow you to tax the wire and breakers without illegally taxing your labor rate. Always consult your CPA to set up your default tax rules for your specific state.",
+    "faqs": [
+      {
+        "question": "Can I hide my material markup from the client?",
+        "answer": "Yes. Simply create a single line item called 'Install 200A Panel (Labor and Materials)' and put the total price. You do not have to break down your wholesale costs unless you are doing a strict, transparent T&M contract."
+      },
+      {
+        "question": "Can I send an estimate first, then convert it to an invoice?",
+        "answer": "Currently, Invoicor focuses exclusively on lightning-fast invoicing. Most electricians use Invoicor to draft the invoice and simply name it 'Quote / Estimate' in the notes, then update the issue date when the work is done."
+      },
+      {
+        "question": "Do I have to type out long descriptions on my phone?",
+        "answer": "No. You can save all your standard services (like 'Ceiling Fan Install' or 'EV Charger Circuit') in your product library with the full, detailed legal descriptions. Adding them to an invoice takes one tap."
+      },
+      {
+        "question": "How do commercial clients pay?",
+        "answer": "The payment link includes options for Credit Card and Apple Pay, but you can also include your ACH routing details directly on the invoice for large commercial GCs who prefer bank transfers."
+      },
+      {
+        "question": "Does it work if I have no cell service?",
+        "answer": "Yes. Invoicor's offline mode is perfect for basements and new construction sites without Wi-Fi or cellular. Draft the invoice locally, and it syncs when you get a signal."
+      }
+    ],
+    "related": [
+      { "name": "Plumbers & HVAC", "slug": "plumbers-hvac" },
+      { "name": "General Contractors", "slug": "general-contractors" }
+    ]
+  },
+  {
+    "slug": "general-contractors",
+    "industry": "General Contractors",
+    "title": "Invoicing Software for General Contractors & Handymen | Invoicor",
+    "meta_description": "Keep cash flowing on big builds. Invoicor helps general contractors and handymen manage milestone billing, change orders, and upfront deposits flawlessly.",
+    "canonical": "https://invoicor.com/industries/general-contractors",
+    "icon": "Hammer",
+    "color": "orange",
+    "badge_text": "Construction & Remodeling",
+    "h1": "Stop financing your clients' renovations.",
+    "subtitle": "General contractors often end up floating tens of thousands of dollars in lumber and sub-contractor fees because their billing process is too slow. Invoicor makes it incredibly easy to issue milestone draw requests and collect immediate deposits, ensuring you are always operating on the client's money, not yours.",
+    "industry_stats": [
+      { "label": "Typical project value", "value": "$5,000 - $150,000+" },
+      { "label": "Standard payment structure", "value": "Milestone Draws (e.g. 30/30/30/10)" },
+      { "label": "Preferred payment method", "value": "ACH / Bank Transfer / Check" }
+    ],
+    "industry_mistakes_title": "Billing mistakes that ruin contractor cash flow",
+    "industry_mistake_1_title": "Verbal change orders.",
+    "industry_mistake_1_text": "The client wants to upgrade the tile mid-project. You say 'sure' and forget to bill the difference. Always issue a rapid 'Change Order' invoice from your phone on the spot, and get it paid before the new tile is ordered.",
+    "industry_mistake_2_title": "Poorly structured draw schedules.",
+    "industry_mistake_2_text": "If you wait until the drywall is up to send your second invoice, you're paying the framers and plumbers out of pocket. Invoices should be scheduled to hit right *before* major capital outlays.",
+    "industry_mistake_3_title": "Unprofessional presentation on massive bills.",
+    "industry_mistake_3_text": "Asking a homeowner for a $40,000 kitchen deposit using a handwritten receipt or a bare-bones text message creates anxiety. Premium, clearly formatted invoices build trust that you run a tight ship.",
+    "feature_1_title": "Milestone & Draw Invoicing",
+    "feature_1_text": "Break massive projects into manageable chunks. Send Invoice #1 for 'Project Deposit (30%)', Invoice #2 for 'Rough-in Complete (30%)', keeping the cash flow positive and the client informed.",
+    "feature_2_title": "Instant Change Orders",
+    "feature_2_text": "When scope creeps, capture it immediately. Create a new invoice, label it 'Change Order #1: Custom Trim', and text it to the client for immediate approval and payment.",
+    "feature_3_title": "Professional PDF Generation",
+    "feature_3_text": "Generate beautiful, clean PDFs that look like they came from a major architectural firm. Print them, email them, or text the secure payment link.",
+    "expert_tip_title": "Pro Tip: Use the 10% Retainage rule to your advantage",
+    "expert_tip_text": "Expect that clients will want to hold back the last 5-10% of the invoice until the final punch-list is complete. Structure your pricing so that your profit is secure in the earlier draws, making the final retainage payment a bonus rather than a lifeline to pay your mortgage.",
+    "real_scenario_title": "Managing a bathroom remodel",
+    "real_scenario_text": "You win a $25,000 master bath remodel. Day 1: You send a 30% deposit invoice via Invoicor ($7,500) which funds demolition and material ordering. Week 2: Demolition and plumbing rough-in are done. You immediately fire off Draw #2 ($7,500) from the driveway. The client pays via bank transfer using the details at the bottom of the PDF. Week 4: Tile is done, vanity is in. You send the final balance invoice. Every step was documented, cash never ran negative, and the client felt secure seeing professional paperwork at every milestone.",
+    "common_line_items": [
+      { "name": "Initial Project Deposit", "desc": "Required to secure schedule and order long-lead materials.", "type": "Milestone" },
+      { "name": "Demolition & Haul Away", "desc": "Removal of existing structures and dumpster fees.", "type": "Phase" },
+      { "name": "Rough Framing & Carpentry", "desc": "Structural modifications per architectural plans.", "type": "Phase" },
+      { "name": "Change Order: Material Upgrade", "desc": "Difference in cost for client-selected premium finishes.", "type": "Change Order" },
+      { "name": "General Labor (Hourly)", "desc": "Miscellaneous handyman tasks outside of fixed scope.", "type": "Hourly" },
+      { "name": "Final Punch-List Balance", "desc": "Remaining balance due upon final walkthrough.", "type": "Retainage" }
+    ],
+    "industry_glossary_title": "Construction billing terms explained",
+    "industry_glossary": [
+      { "term": "Draw Schedule", "definition": "A predetermined timeline of payments based on project milestones (e.g., Deposit, Framing, Drywall, Final)." },
+      { "term": "Change Order", "definition": "An amendment to the original contract that alters the scope of work and the total price." },
+      { "term": "Retainage", "definition": "A portion of the agreed contract price deliberately withheld until the work is substantially complete to assure the GC finishes the job." },
+      { "term": "Allowance", "definition": "A placeholder amount in the contract for items the client hasn't picked yet (like light fixtures). Reconciled on the final invoice." },
+      { "term": "Punch List", "definition": "A document prepared near the end of a project listing minor tasks to be completed before final payment is issued." }
+    ],
+    "tax_or_compliance_title": "Lien waivers and clear invoicing",
+    "tax_or_compliance_text": "In the construction industry, clear invoicing protects your right to file a mechanic's lien if you aren't paid. Conversely, when a client pays a massive invoice, they often want a 'lien waiver' proving you won't sue them later. Having a clean, digital paper trail in Invoicor showing exactly which draw was billed, and exactly when it was marked 'Paid', makes providing these waivers to nervous homeowners or commercial GCs much easier.",
+    "faqs": [
+      {
+        "question": "Can I process $50,000 invoices through the app?",
+        "answer": "Yes, but for very large amounts, credit card fees (typically ~2.9%) become prohibitive. For these, it's best to include your bank wire or ACH routing details on the Invoicor PDF and have the client pay via bank transfer."
+      },
+      {
+        "question": "How do I handle 'Allowances' in Invoicor?",
+        "answer": "Create a line item for the actual cost of the fixtures the client chose, and add a note explaining it reconciles the allowance in the contract."
+      },
+      {
+        "question": "Can I attach my sub-contractor receipts to the invoice?",
+        "answer": "You can absolutely attach photos or PDFs of receipts to the email you send to the client alongside the Invoicor payment link to justify T&M expenses."
+      },
+      {
+        "question": "Is it better to bill hourly or flat-rate for handyman work?",
+        "answer": "For short handyman jobs (under a day), hourly plus materials is safest. Invoicor makes it easy to just enter '4 hours @ $85/hr' and fire it off before you leave."
+      },
+      {
+        "question": "Can I have different branding for my remodeling and handyman businesses?",
+        "answer": "Yes. Invoicor's multi-business profile feature lets you run 'Apex Remodeling' and 'Apex Handyman Services' as two separate profiles with different logos and invoices."
+      }
+    ],
+    "related": [
+      { "name": "Plumbers & HVAC", "slug": "plumbers-hvac" },
+      { "name": "Electricians", "slug": "electricians" }
+    ]
+  },
+  {
+    "slug": "photographers-videographers",
+    "industry": "Photographers & Videographers",
+    "title": "Invoicing Software for Photographers & Videographers | Invoicor",
+    "meta_description": "Lock in your booking dates with upfront retainers. Invoicor helps photographers send beautiful invoices and collect payments fast.",
+    "canonical": "https://invoicor.com/industries/photographers-videographers",
+    "icon": "Camera",
+    "color": "purple",
+    "badge_text": "Creative Booking Invoicing",
+    "h1": "Secure your dates with fast, elegant invoicing.",
+    "subtitle": "A photographer's inventory is their time. If a client doesn't pay a retainer, the date isn't booked. Invoicor lets you send stunning, brand-aligned invoices that make paying the non-refundable deposit frictionless, so you can lock in your calendar and focus on the shoot.",
+    "industry_stats": [
+      { "label": "Typical wedding/event value", "value": "$1,500 - $8,000+" },
+      { "label": "Standard payment structure", "value": "Retainer to book, balance before shoot" },
+      { "label": "Preferred payment method", "value": "Credit Card" }
+    ],
+    "industry_mistakes_title": "Billing mistakes that leave photographers empty-handed",
+    "industry_mistake_1_title": "Holding a date without a deposit.",
+    "industry_mistake_1_text": "Never turn away another inquiry for a date unless a non-refundable retainer has cleared. Sending a fast digital invoice with a 'Pay Now' button ensures the client commits financially before you block your calendar.",
+    "industry_mistake_2_title": "Delivering the gallery before final payment.",
+    "industry_mistake_2_text": "Once a client has their wedding photos or commercial video files, their urgency to pay drops to zero. The balance invoice must be sent—and paid—before the unwatermarked gallery link is released.",
+    "industry_mistake_3_title": "Eating travel and location fees.",
+    "industry_mistake_3_text": "Permits for shooting in state parks, gas, and hotel stays add up quickly. If it's outside your standard radius, these should be explicit line items on the invoice, not eaten by your profit margin.",
+    "feature_1_title": "Non-Refundable Retainer Invoices",
+    "feature_1_text": "Send an immediate invoice for 30% to 50% of the package price. Your client taps to pay with Apple Pay, locking in their booking instantly without back-and-forth emails.",
+    "feature_2_title": "Stunning Visual Templates",
+    "feature_2_text": "Your clients hired you for your aesthetic eye. Don't send them an ugly spreadsheet. Invoicor's premium templates ensure your billing looks as good as your Instagram feed.",
+    "feature_3_title": "Multi-Currency for Destination Shoots",
+    "feature_3_text": "Shooting a wedding in Tuscany or an elopement in Bali? Bill the client in their preferred currency, and let Stripe handle the FX so it lands in your local bank smoothly.",
+    "expert_tip_title": "Pro Tip: Automate the final balance reminder",
+    "expert_tip_text": "Set the due date for the final balance 14 days before the wedding or event date. This ensures all financial transactions are handled before the stress of the actual event, keeping the shoot day purely creative and celebratory.",
+    "real_scenario_title": "Booking a high-end wedding",
+    "real_scenario_text": "A couple says 'yes' to your $5,000 wedding package. You immediately pull out your iPhone, create a new invoice in Invoicor, add 'Wedding Collection II' and 'Second Shooter Add-on'. You adjust the total to a 50% Retainer ($2,500), add a note stating 'Remaining balance due 14 days prior to event', and hit send. They pay via credit card on their couch that night. The date is officially booked, and you didn't have to wait until you got back to your desktop to send the paperwork.",
+    "common_line_items": [
+      { "name": "Non-Refundable Booking Retainer", "desc": "Secures the date and covers initial consultation.", "type": "Milestone" },
+      { "name": "Wedding Collection - Balance", "desc": "8 hours coverage, online gallery, high-res downloads.", "type": "Package" },
+      { "name": "Second Photographer Add-On", "desc": "Additional coverage for different angles and groom prep.", "type": "Add-On" },
+      { "name": "Travel / Mileage Fee", "desc": "Standard rate per mile outside the 50-mile inclusion zone.", "type": "Expense" },
+      { "name": "Commercial Licensing Buyout", "desc": "Full copyright transfer for commercial brand usage.", "type": "Licensing" },
+      { "name": "Rush Editing Fee", "desc": "Guaranteed 48-hour turnaround for final gallery delivery.", "type": "Rush Fee" }
+    ],
+    "industry_glossary_title": "Photography billing terms explained",
+    "industry_glossary": [
+      { "term": "Retainer", "definition": "A fee paid upfront to secure a photographer's services for a specific date. Legally distinct from a 'deposit', retainers are generally non-refundable as they cover the opportunity cost of turning away other work." },
+      { "term": "Usage Rights", "definition": "The legal permission granted to the client dictating how they can use the images (e.g., personal use only, commercial print, worldwide digital)." },
+      { "term": "Day Rate", "definition": "A flat fee charged for a standard 8-10 hour day of shooting, common in commercial and editorial photography." },
+      { "term": "Kill Fee", "definition": "A percentage of the total project fee owed to the photographer if a commercial shoot is cancelled by the client at the last minute." },
+      { "term": "Deliverables", "definition": "The final products provided to the client (e.g., 500 edited JPEGs, 1 physical album, 1 highlight reel)." }
+    ],
+    "tax_or_compliance_title": "Sales tax on digital goods and photography",
+    "tax_or_compliance_text": "Tax laws for photography are notoriously tricky. In some US states, if you deliver photos on a USB drive (a physical good), the entire shoot becomes subject to sales tax. If you deliver them via a digital download link, it might be exempt. Furthermore, sitting fees or session fees might be taxed differently than print sales. It is vital to consult your local tax authority. Invoicor makes it easy by allowing you to selectively tax the physical album line item while leaving the digital session fee tax-free, keeping you perfectly compliant.",
+    "faqs": [
+      {
+        "question": "Can I separate the retainer from the final balance?",
+        "answer": "Yes. Most photographers send Invoice #1 for the retainer to lock the date, and Invoice #2 for the balance due before the shoot. You can clone the first invoice to make creating the second one take 3 seconds."
+      },
+      {
+        "question": "Do Invoicor templates look professional enough for luxury brides?",
+        "answer": "Absolutely. You can choose from elegant, minimalist templates, upload your high-res logo, and match your brand colors. It looks like bespoke stationery, not a spreadsheet."
+      },
+      {
+        "question": "Can clients pay via credit card to get their credit card points?",
+        "answer": "Yes! Brides love paying for wedding expenses on credit cards to earn travel points for their honeymoon. Invoicor's secure payment links support all major credit cards."
+      },
+      {
+        "question": "How do I bill for overtime on a shoot?",
+        "answer": "If a shoot runs two hours long, simply generate a quick 'Overtime Coverage' invoice from your phone while packing up your gear. Get it paid the next day before delivering sneak peeks."
+      },
+      {
+        "question": "Does Invoicor handle contracts?",
+        "answer": "Invoicor handles the money. You can include your terms in the notes section, but for complex liability and model release contracts, you should use a dedicated e-signature tool or attach the PDF to the invoice email."
+      }
+    ],
+    "related": [
+      { "name": "Freelance Designers", "slug": "freelance-designers" },
+      { "name": "Consultants", "slug": "consultants-coaches" }
+    ]
+  },
+  {
+    "slug": "consultants-coaches",
+    "industry": "Consultants & Coaches",
+    "title": "Invoicing Software for Consultants & Coaches | Invoicor",
+    "meta_description": "Bill for your expertise effortlessly. Invoicor provides clean, professional invoicing for consultants, executive coaches, and strategy advisors.",
+    "canonical": "https://invoicor.com/industries/consultants-coaches",
+    "icon": "Briefcase",
+    "color": "gray",
+    "badge_text": "Professional Services",
+    "h1": "Look like an executive. Bill like an agency.",
+    "subtitle": "As a consultant or coach, you are selling high-level expertise and trust. Your billing process must reflect that professionalism. Invoicor allows you to send sleek, corporate-grade invoices for strategy retainers, hourly consulting, or coaching packages in seconds.",
+    "industry_stats": [
+      { "label": "Typical retainer value", "value": "$1,000 - $10,000/mo" },
+      { "label": "Standard payment structure", "value": "Monthly Retainer or Net-30" },
+      { "label": "Preferred payment method", "value": "ACH / Wire / Card" }
+    ],
+    "industry_mistakes_title": "Billing mistakes that undermine your authority",
+    "industry_mistake_1_title": "Amateur invoice design.",
+    "industry_mistake_1_text": "If you are charging a CEO $300 an hour for strategic advice, you cannot send them a PayPal request or a glitchy Word document. A premium, minimalist invoice validates your high fees.",
+    "industry_mistake_2_title": "Failing to itemize out-of-pocket expenses.",
+    "industry_mistake_2_text": "Flights, hotels, and client dinners eat into your profits. If your contract allows for expense reimbursement, these must be explicitly broken out on the invoice with receipts attached, or accounting departments will reject them.",
+    "industry_mistake_3_title": "Accepting Net-60 terms by default.",
+    "industry_mistake_3_text": "Large corporations will automatically try to push you to Net-60 or Net-90 payment terms. Always state 'Due on Receipt' or 'Net-15' on your invoice by default; make them negotiate for longer terms.",
+    "feature_1_title": "Recurring Retainer Billing",
+    "feature_1_text": "Set up your monthly executive coaching or advisory retainers once. Invoicor will automatically generate and send the invoice on the 1st of every month without you lifting a finger.",
+    "feature_2_title": "Corporate-Ready PDFs",
+    "feature_2_text": "Generate clean, unbranded (no 'Created with Invoicor' watermarks on premium plans) PDFs that sail smoothly through strict enterprise Accounts Payable departments.",
+    "feature_3_title": "Multi-Business Profiles",
+    "feature_3_text": "Do you run 'Smith Strategy Consulting' and a separate 'Life Coaching by Jane' business? Manage both effortlessly from one app, with completely separate logos, clients, and bank accounts.",
+    "expert_tip_title": "Pro Tip: Shift from hourly to value-based retainers",
+    "expert_tip_text": "Hourly billing punishes efficiency. Instead of billing 10 hours at $200/hr, pitch a flat $3,000 monthly 'Advisory Retainer' that includes unlimited email access and two strategy calls. It guarantees your income, simplifies your invoice to a single line item, and focuses the client on the value you provide, not the minutes you work.",
+    "real_scenario_title": "Billing a corporate workshop",
+    "real_scenario_text": "You just finished leading a 2-day leadership offsite for a tech startup. You open Invoicor and create the bill: '2-Day Executive Leadership Offsite' ($8,500), 'Travel & Accommodation Expense' ($1,240). You add a note at the bottom: 'Thank you for a highly productive offsite. Receipts for travel are attached to this email.' You send it to their VP of Finance. Because it looks incredibly professional and includes your wire transfer details, the startup's AP department processes it the next day.",
+    "common_line_items": [
+      { "name": "Monthly Advisory Retainer", "desc": "Ongoing strategic guidance, email support, and bi-weekly calls.", "type": "Recurring" },
+      { "name": "Strategy Workshop Facilitation", "desc": "Full-day on-site leadership alignment workshop.", "type": "Flat Rate" },
+      { "name": "Hourly Consulting", "desc": "Ad-hoc strategic analysis outside of standard retainer scope.", "type": "Hourly" },
+      { "name": "Executive Coaching Package", "desc": "Block of 10 one-on-one leadership coaching sessions.", "type": "Package" },
+      { "name": "Travel & Expense Reimbursement", "desc": "Pre-approved out-of-pocket travel costs (receipts attached).", "type": "Expense" }
+    ],
+    "industry_glossary_title": "Consulting billing terms explained",
+    "industry_glossary": [
+      { "term": "Retainer", "definition": "A fixed monthly fee paid by a client to guarantee a consultant's availability and a baseline of services." },
+      { "term": "Value-Based Pricing", "definition": "Charging based on the financial impact or value the project delivers to the client, rather than tracking hours." },
+      { "term": "Net-30", "definition": "Payment terms requiring the client to pay within 30 days of the invoice date. Standard in B2B consulting." },
+      { "term": "Scope Creep", "definition": "When a client asks for additional deliverables not covered in the original SOW. Should trigger a new invoice." },
+      { "term": "Accounts Payable (AP)", "definition": "The corporate department responsible for paying you. They require clear invoices, W-9s, and matched SOW numbers." }
+    ],
+    "tax_or_compliance_title": "W-9s and 1099s for Independent Consultants",
+    "tax_or_compliance_text": "In the United States, corporate clients will require a W-9 form from you before they pay your first invoice, and they will issue you a 1099-NEC at tax time if they paid you over $600. It is critical that the legal business name and address on your Invoicor invoice match your W-9 perfectly. If your invoice says 'Jane's Consulting' but your W-9 says 'Jane Doe LLC', corporate accounting will freeze your payment until the discrepancy is resolved.",
+    "faqs": [
+      {
+        "question": "Can I include my bank wire details directly on the invoice?",
+        "answer": "Yes. There is a dedicated notes/terms section at the bottom of the invoice perfectly suited for listing your Routing and Account numbers for ACH or wire transfers."
+      },
+      {
+        "question": "Do I need to charge sales tax as a consultant?",
+        "answer": "In most US states and many countries, pure professional services (advice, coaching) are exempt from sales tax. However, always verify with your CPA, especially if you also sell physical workbooks or digital courses."
+      },
+      {
+        "question": "Can I send invoices in foreign currencies?",
+        "answer": "Yes. If you are a US coach with a client in London, you can bill them in GBP. It looks highly professional and reduces friction for international clients."
+      },
+      {
+        "question": "How do I handle coaching packages?",
+        "answer": "Create a single invoice for '12-Session Coaching Package' and have the client pay the full amount upfront. It improves client commitment and secures your cash."
+      },
+      {
+        "question": "Can my assistant manage my invoices?",
+        "answer": "Because Invoicor is tied to your account, you can log in across multiple devices (iPad, iPhone, Mac) allowing your assistant to draft invoices while you focus on consulting."
+      }
+    ],
+    "related": [
+      { "name": "Freelance Designers", "slug": "freelance-designers" },
+      { "name": "Photographers", "slug": "photographers-videographers" }
+    ]
+  },
+  {
+    "slug": "cleaning-services",
+    "industry": "Cleaners & Janitorial Services",
+    "title": "Invoicing Software for Cleaning Services | Invoicor",
+    "meta_description": "Streamline your cleaning business billing. Generate recurring invoices, charge for deep cleans, and get paid fast without chasing down checks.",
+    "canonical": "https://invoicor.com/industries/cleaning-services",
+    "icon": "Home",
+    "color": "teal",
+    "badge_text": "Residential & Commercial Cleaning",
+    "h1": "Clean houses. Send invoices. Get paid.",
+    "subtitle": "Whether you run a solo house cleaning service or a team of commercial janitors, cash flow is king. Stop leaving paper invoices on kitchen counters and waiting for checks in the mail. Invoicor lets you automate your weekly billing and accept digital payments instantly.",
+    "industry_stats": [
+      { "label": "Typical residential clean", "value": "$100 - $300" },
+      { "label": "Standard payment timeline", "value": "Due on day of service" },
+      { "label": "Preferred payment method", "value": "Card / Auto-Pay" }
+    ],
+    "industry_mistakes_title": "Billing mistakes that sweep away your profits",
+    "industry_mistake_1_title": "Chasing $150 checks.",
+    "industry_mistake_1_text": "Following up on unpaid residential cleaning invoices takes more time than the actual cleaning. Transitioning clients to digital invoices with embedded card payments dramatically reduces overdue accounts.",
+    "industry_mistake_2_title": "Not charging for late cancellations.",
+    "industry_mistake_2_text": "If a client cancels when you are already in the driveway, you lose half a day's pay. You must have a cancellation fee policy and seamlessly invoice for it to protect your schedule.",
+    "industry_mistake_3_title": "Underpricing deep cleans.",
+    "industry_mistake_3_text": "A move-out clean takes twice as long as a standard bi-weekly maintenance clean. Having separate, clearly defined line items for 'Deep Clean' vs 'Standard Clean' ensures clients understand why the price is different.",
+    "feature_1_title": "Recurring Auto-Billing",
+    "feature_1_text": "For your bi-weekly residential clients or nightly commercial contracts, set up recurring invoices. Invoicor does the administrative work while you manage the mops.",
+    "feature_2_title": "1-Tap Invoice Duplication",
+    "feature_2_text": "Have a standard rate for 3-bedroom houses? Duplicate a past invoice in one second, change the client name, and hit send. It's the fastest way to bill a full day's route.",
+    "feature_3_title": "Overdue Notifications",
+    "feature_3_text": "Instantly see who hasn't paid their bill from last week before you show up to clean their house again, allowing you to pause service until accounts are settled.",
+    "expert_tip_title": "Pro Tip: Offer clear Add-Ons",
+    "expert_tip_text": "Standardize your base price, but clearly list Add-Ons on your website and invoices (e.g., 'Inside Fridge Clean: $40', 'Oven Scrub: $50'). This turns a standard $150 visit into a $240 visit with minimal extra time, and the itemized invoice proves the value.",
+    "real_scenario_title": "A commercial office clean",
+    "real_scenario_text": "You manage the janitorial contract for a local real estate office. They are on a $800/month retainer. On the 1st of the month, Invoicor automatically generates and emails their invoice. The office manager clicks the link, pays with the corporate credit card, and the funds are in your account. You didn't even have to open the app.",
+    "common_line_items": [
+      { "name": "Standard Residential Clean", "desc": "Bi-weekly surface cleaning, vacuuming, and mopping.", "type": "Recurring" },
+      { "name": "Deep / Move-Out Clean", "desc": "Intensive scrubbing of baseboards, inside cabinets, and appliances.", "type": "Flat Rate" },
+      { "name": "Commercial Office Maintenance", "desc": "Nightly trash removal, restroom sanitation, and floor care.", "type": "Monthly Retainer" },
+      { "name": "Add-On: Inside Oven Clean", "desc": "Heavy degreasing of interior oven.", "type": "Add-On" },
+      { "name": "Add-On: Window Washing", "desc": "Interior glass cleaning per pane.", "type": "Add-On" },
+      { "name": "Late Cancellation Fee", "desc": "Fee applied for cancellations with less than 24 hours notice.", "type": "Penalty" }
+    ],
+    "industry_glossary_title": "Cleaning industry billing terms",
+    "industry_glossary": [
+      { "term": "Initial Clean", "definition": "The first time cleaning a home, always billed at a higher rate because it requires bringing the property up to a baseline standard." },
+      { "term": "Maintenance Clean", "definition": "Recurring weekly or bi-weekly service at a lower, predictable rate." },
+      { "term": "Square Footage Pricing", "definition": "Quoting commercial or empty residential jobs based on the size of the space (e.g., $0.10 per sq ft)." },
+      { "term": "Lockout Fee", "definition": "A charge applied when the crew arrives but cannot access the property to perform the work." },
+      { "term": "Walkthrough", "definition": "The initial visit to assess the property's condition before issuing a formal quote or invoice." }
+    ],
+    "tax_or_compliance_title": "Sales tax on janitorial and cleaning services",
+    "tax_or_compliance_text": "In many states (like New York or Texas), commercial cleaning and janitorial services are subject to sales tax, while residential cleaning might be exempt—or vice versa depending on local laws. It is crucial to configure your Invoicor account to apply the correct tax rate to the correct type of client. You can save specific tax rates to different line items (e.g., 'Commercial Cleaning - Taxable') to make compliance foolproof.",
+    "faqs": [
+      {
+        "question": "Can I bill all my residential clients on Friday automatically?",
+        "answer": "Yes. Set up recurring invoices to fire off on Friday afternoon, so everyone is billed for the week's work simultaneously."
+      },
+      {
+        "question": "What if a client adds a service on the day of the clean?",
+        "answer": "Simply open the Invoicor app on your phone, edit the draft invoice to add the 'Inside Fridge Clean' line item, and send the updated total."
+      },
+      {
+        "question": "Do my clients need an app to pay me?",
+        "answer": "No. The payment link opens directly in their phone's web browser, allowing them to pay securely via Apple Pay or credit card in seconds."
+      },
+      {
+        "question": "Can I track which of my crew members did the clean on the invoice?",
+        "answer": "You can use the 'Notes' section on the invoice to indicate which team serviced the property, which helps with quality control and client communication."
+      },
+      {
+        "question": "Is it safe to email invoices to clients?",
+        "answer": "Yes. Invoicor links are secure, hosted on encrypted servers, ensuring that your clients' payment details and your business data are protected."
+      }
+    ],
+    "related": [
+      { "name": "Landscaping & Lawn Care", "slug": "landscaping-lawn-care" },
+      { "name": "General Contractors", "slug": "general-contractors" }
+    ]
+  },
+  {
+    "slug": "personal-trainers",
+    "industry": "Personal Trainers & Fitness Instructors",
+    "title": "Invoicing Software for Personal Trainers | Invoicor",
+    "meta_description": "Bill for your fitness coaching like a pro. Sell session packages, collect monthly programming retainers, and ditch the awkward gym-floor Venmo requests.",
+    "canonical": "https://invoicor.com/industries/personal-trainers",
+    "icon": "Activity",
+    "color": "red",
+    "badge_text": "Fitness & Coaching Billing",
+    "h1": "Train hard. Bill easy.",
+    "subtitle": "Asking clients for Venmo payments on the gym floor is awkward and makes you look like an amateur. Invoicor helps independent personal trainers and online fitness coaches send professional invoices for session packages and monthly programming.",
+    "industry_stats": [
+      { "label": "Typical package value", "value": "$300 - $1,500" },
+      { "label": "Standard payment structure", "value": "Upfront package / Monthly" },
+      { "label": "Preferred payment method", "value": "Card / Apple Pay" }
+    ],
+    "industry_mistakes_title": "Billing mistakes that kill fitness businesses",
+    "industry_mistake_1_title": "Pay-per-session billing.",
+    "industry_mistake_1_text": "If a client pays you $75 every time they see you, they will cancel when they feel lazy because it 'saves money'. Selling packages of 10 upfront locks in their commitment and secures your cash flow.",
+    "industry_mistake_2_title": "No-shows without penalty.",
+    "industry_mistake_2_text": "A client sleeping in costs you an hour of income. Having a strict 24-hour cancellation policy is useless if you don't enforce it. Charging them via an invoice or deducting from their prepaid package establishes boundaries.",
+    "industry_mistake_3_title": "Mixing personal and business finances.",
+    "industry_mistake_3_text": "Using personal CashApp or Venmo accounts for business looks unprofessional and creates a nightmare at tax time. Professional invoicing routing to a business bank account is the mark of a real fitness business.",
+    "feature_1_title": "Sell Upfront Packages",
+    "feature_1_text": "Create a line item for '12-Session Personal Training Block'. Send the invoice and get paid the full $900 before the first squat is performed.",
+    "feature_2_title": "Online Coaching Retainers",
+    "feature_2_text": "Run an online macro-tracking or programming business? Set up automatic monthly invoices to bill your remote clients for their customized fitness plans.",
+    "feature_3_title": "Mobile-First for the Gym Floor",
+    "feature_3_text": "You don't sit at a desk. Invoicor lives on your iPhone, letting you fire off an invoice to a new lead while you're between sets on the squat rack.",
+    "expert_tip_title": "Pro Tip: Make the invoice terms double as a policy reminder",
+    "expert_tip_text": "Use the notes section of your Invoicor template to permanently state: 'All packages are non-refundable. Sessions cancelled with less than 24 hours notice will be forfeited.' Having it in writing on every receipt eliminates arguments.",
+    "real_scenario_title": "Onboarding a new personal training client",
+    "real_scenario_text": "You finish a free consultation with a lead. They want to train 3 days a week. Instead of saying 'just Venmo me', you open Invoicor, select your '12-Session Kickstart Package' ($1,200), and hit send. They receive a polished PDF via text, tap the Apple Pay button, and the money is secured. You instantly established authority and professionalism.",
+    "common_line_items": [
+      { "name": "10-Session Training Block", "desc": "10 hours of 1-on-1 coaching, valid for 60 days.", "type": "Package" },
+      { "name": "Monthly Online Programming", "desc": "Customized weekly workouts and macro-nutrient adjustments.", "type": "Recurring" },
+      { "name": "Drop-In / Single Session", "desc": "One hour of guided personal training.", "type": "Flat Rate" },
+      { "name": "Small Group Training (per person)", "desc": "Bootcamp style session for 2-4 individuals.", "type": "Flat Rate" },
+      { "name": "Nutrition Strategy Consultation", "desc": "90-minute deep dive into dietary habits and goal setting.", "type": "Consulting" }
+    ],
+    "industry_glossary_title": "Fitness billing terms explained",
+    "industry_glossary": [
+      { "term": "Session Package", "definition": "A block of training sessions sold together at a slight discount to secure client commitment upfront." },
+      { "term": "Online Programming", "definition": "Providing workout routines and check-ins digitally, usually billed as a monthly recurring subscription." },
+      { "term": "Gym Cut / Floor Fee", "definition": "The percentage or flat monthly fee an independent trainer pays the facility to train clients there." },
+      { "term": "Macro Coaching", "definition": "Providing nutritional guidance based on macronutrients, often billed separately from physical training." },
+      { "term": "Assessment / Consult", "definition": "The initial meeting to assess movement mechanics and goals. Often free to generate leads, but sometimes billed." }
+    ],
+    "tax_or_compliance_title": "Tax considerations for online vs in-person training",
+    "tax_or_compliance_text": "Generally, personal training services are not subject to sales tax, but selling physical goods (like supplements, resistance bands, or branded apparel) absolutely is. Furthermore, if you sell 'digital downloads' like a generic PDF workout program, some states tax that as a digital good. Keep your service billing (training) cleanly separated from your product sales on your invoices using Invoicor's line-item specific tax toggles.",
+    "faqs": [
+      {
+        "question": "Can I use Invoicor for recurring monthly subscriptions?",
+        "answer": "Yes. Set up a recurring invoice for your online coaching clients. It will automatically email them a payment link every month."
+      },
+      {
+        "question": "Does it track how many sessions a client has left?",
+        "answer": "Invoicor focuses purely on billing and cash flow. Most trainers track session usage in a simple spreadsheet or dedicated fitness app, using Invoicor to handle the actual financial transaction."
+      },
+      {
+        "question": "Why shouldn't I just use Venmo?",
+        "answer": "Venmo doesn't generate professional receipts, makes year-end tax accounting difficult, and personal Venmo accounts can be frozen if they suspect you are running a business without paying their merchant fees. Invoicor is built for real businesses."
+      },
+      {
+        "question": "Can I add discounts for military or students?",
+        "answer": "Yes, you can easily add a discount line item to any invoice before sending it."
+      },
+      {
+        "question": "Is my client data secure?",
+        "answer": "Absolutely. Client data is encrypted and stored securely, ensuring privacy for your high-profile or sensitive clients."
+      }
+    ],
+    "related": [
+      { "name": "Consultants", "slug": "consultants-coaches" },
+      { "name": "Cleaning Services", "slug": "cleaning-services" }
+    ]
+  },
+  {
+    "slug": "auto-detailing-mechanics",
+    "industry": "Auto Detailing & Mobile Mechanics",
+    "title": "Invoicing Software for Mobile Detailers & Mechanics | Invoicor",
+    "meta_description": "Fast mobile invoicing for auto detailers and mechanics. Bill for ceramic coatings, track vehicle VINs, and get paid via card right in the customer's driveway.",
+    "canonical": "https://invoicor.com/industries/auto-detailing-mechanics",
+    "icon": "Car",
+    "color": "cyan",
+    "badge_text": "Mobile Auto Services",
+    "h1": "The ultimate tool for mobile automotive pros.",
+    "subtitle": "Mobile detailers and mechanics turn driveways into workshops. But when it's time to pay, fumbling with cash or clunky card readers slows you down. Invoicor lets you generate a detailed, professional invoice from your phone, complete with up-sells like paint correction or parts markup, and get paid instantly.",
+    "industry_stats": [
+      { "label": "Typical detail / repair", "value": "$150 - $1,200+" },
+      { "label": "Standard payment timeline", "value": "Due upon completion" },
+      { "label": "Preferred payment method", "value": "Card / Apple Pay" }
+    ],
+    "industry_mistakes_title": "Billing mistakes that dent your margins",
+    "industry_mistake_1_title": "Forgetting the travel fee.",
+    "industry_mistake_1_text": "Driving 45 minutes to a client's house costs gas and time. If you don't include a mobile service fee or bake it explicitly into your premium pricing, you are working for free during transit.",
+    "industry_mistake_2_title": "Failing to document vehicle condition.",
+    "industry_mistake_2_text": "Always use the invoice notes to document the Make, Model, VIN, and any pre-existing damage (like a cracked windshield) before you start. A clear paper trail protects you from liability claims.",
+    "industry_mistake_3_title": "Leaving upsells off the bill.",
+    "industry_mistake_3_text": "The client asked for a basic wash, but you upsold them on a $50 engine bay detail on-site. If you don't instantly add it to the invoice, it might get forgotten in the hustle of packing up your gear.",
+    "feature_1_title": "Instant Upsell Additions",
+    "feature_1_text": "Keep 'Pet Hair Removal', 'Ozone Treatment', and 'Headlight Restoration' in your saved items. Add them to the bill in one tap while the customer is inspecting the car.",
+    "feature_2_title": "Vehicle Detail Notes",
+    "feature_2_text": "Use the custom fields or notes section to record the Year, Make, Model, and License Plate, creating a highly professional receipt that clients can keep for their maintenance records.",
+    "feature_3_title": "Tap-to-Pay in the Driveway",
+    "feature_3_text": "Text the invoice link. The customer taps Apple Pay on their own phone. No hardware card readers to charge, no swiping, no cash to lose.",
+    "expert_tip_title": "Pro Tip: Collect deposits for Ceramic Coatings",
+    "expert_tip_text": "A true ceramic coating takes hours and blocks out your whole day. Never book a ceramic job without sending an Invoicor link for a 25% non-refundable deposit to ensure they don't flake on you.",
+    "real_scenario_title": "A premium driveway detail",
+    "real_scenario_text": "You finish a full interior/exterior detail on a Ford F-150. The owner is thrilled. From your phone, you open Invoicor, add 'Full Size Truck Detail Package' ($250), and the 'Pet Hair Removal Add-On' ($40) that you agreed upon. You add the truck's plate number in the notes, hit send via SMS. The owner reviews it on their phone, taps Google Pay, and leaves a tip. You drive away with the money already processing.",
+    "common_line_items": [
+      { "name": "Full Interior/Exterior Detail", "desc": "Wash, wax, vacuum, and interior surface wipe down.", "type": "Package" },
+      { "name": "Paint Correction (1-Step)", "desc": "Machine polishing to remove light swirls and scratches.", "type": "Flat Rate" },
+      { "name": "Ceramic Coating Installation", "desc": "Multi-year paint protection coating (includes prep wash).", "type": "Premium Package" },
+      { "name": "Mobile Service Call Fee", "desc": "Travel fee for locations outside the standard 15-mile radius.", "type": "Fee" },
+      { "name": "Mobile Mechanic: Diagnostic", "desc": "OBD2 scan and mechanical troubleshooting.", "type": "Flat Rate" },
+      { "name": "Parts & Fluids", "desc": "Replacement brake pads, rotors, or synthetic oil.", "type": "Materials" }
+    ],
+    "industry_glossary_title": "Automotive billing terms explained",
+    "industry_glossary": [
+      { "term": "Paint Correction", "definition": "The process of leveling clear coat to remove scratches. Often billed hourly due to unpredictable paint hardness." },
+      { "term": "Ceramic Coating", "definition": "A liquid polymer applied to the exterior. High ticket item that should always require a booking deposit." },
+      { "term": "Shop Supplies", "definition": "A standard percentage (often 5-10%) added to mechanic bills to cover un-trackable materials like brake cleaner, rags, and grease." },
+      { "term": "Labor Guide Time", "definition": "The industry-standard time allotted for a specific mechanical repair, used to quote flat-rate labor rather than clocking actual hours." },
+      { "term": "Core Charge", "definition": "A deposit paid on a part (like a battery or alternator) that is refunded when the old, broken part is returned for recycling." }
+    ],
+    "tax_or_compliance_title": "Taxation on auto repair and detailing",
+    "tax_or_compliance_text": "Automotive services are highly scrutinized by state tax boards. In states like California or New York, the rules regarding taxing auto repair labor versus parts can be extremely complex. Often, parts are taxable but repair labor is not, whereas detailing (washing/waxing) might be fully taxable as a maintenance service. You must separate your parts and labor on your Invoicor invoices and apply the correct tax toggles to protect yourself in an audit.",
+    "faqs": [
+      {
+        "question": "Can I record the customer's VIN or License Plate on the invoice?",
+        "answer": "Yes, simply drop the vehicle details into the Notes section. It prints cleanly on the PDF and gives the customer a proper maintenance record."
+      },
+      {
+        "question": "Can customers tip me through the payment link?",
+        "answer": "If you process payments via Stripe, tipping options can be configured so satisfied customers can add 15% or 20% right from their phone."
+      },
+      {
+        "question": "How do I handle fleet contracts?",
+        "answer": "If you wash 10 vans for a local plumbing company every week, set them up as a client, save 'Fleet Wash (Per Vehicle)' in your items, and bill them monthly with Net-15 terms."
+      },
+      {
+        "question": "Do I need a card swiper?",
+        "answer": "No! Invoicor eliminates the need for bluetooth card readers. The customer pays via a secure link on their own device using Apple Pay or manually entering their card."
+      },
+      {
+        "question": "Can I use it for mobile window tinting?",
+        "answer": "Absolutely. Mobile tinters, PDR (paintless dent repair) techs, and windshield replacement pros all use Invoicor to bill directly on-site."
+      }
+    ],
+    "related": [
+      { "name": "Landscaping & Lawn Care", "slug": "landscaping-lawn-care" },
+      { "name": "Plumbers & HVAC", "slug": "plumbers-hvac" }
+    ]
+  }
+]
