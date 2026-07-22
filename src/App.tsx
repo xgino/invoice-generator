@@ -16,6 +16,9 @@ import { ComparePage } from './pages/compare/ComparePage';
 import { IndustryPage } from './pages/industries/IndustryPage';
 import { TemplatePage } from './pages/templates/TemplatePage';
 
+// Affiliate
+import AffiliatePage from './pages/AffiliatePage';
+
 // Scroll to top on route change
 const ScrollToTop = () => {
   const { pathname } = useLocation();
@@ -34,6 +37,7 @@ export default function App() {
           <Route path="/terms" element={<Terms />} />
           <Route path="/privacy" element={<Privacy />} />
           <Route path="/help" element={<Help />} />
+          <Route path="/affiliate" element={<AffiliatePage />} />
 
           {/* Programmatic SEO: Comparisons */}
           <Route path="/compare" element={<CompareHub />} />

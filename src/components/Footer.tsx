@@ -90,6 +90,7 @@ export default function Footer() {
                 <Link to="/help" onClick={() => track('help')} style={linkStyle}>Help &amp; FAQ</Link>
                 <Link to="/privacy" onClick={() => track('privacy')} style={linkStyle}>Privacy</Link>
                 <Link to="/terms" onClick={() => track('terms')} style={linkStyle}>Terms</Link>
+                <Link to="/affiliate" onClick={() => track('affiliate')} style={linkStyle}>Affiliate Program (20%)</Link>
                 <a href="mailto:info@invoicor.com" onClick={() => track('email')} style={linkStyle}>info@invoicor.com</a>
               </div>
             </div>
