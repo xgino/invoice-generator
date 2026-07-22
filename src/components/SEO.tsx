@@ -13,7 +13,7 @@ export const SEO: React.FC<SEOProps> = ({
   title, 
   description, 
   canonical,
-  ogImage = 'https://invoicor.com/default-og-image.png', // Replace with your actual default image
+  ogImage = 'https://invoicor.com/default-og-image.jpg', // Replace with your actual default image
   ogType = 'website'
 }) => {
   const siteName = "Invoicor";

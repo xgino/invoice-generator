@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import logo from '../assets/icon.png';
+import logo from '../assets/icon.jpg';
 
 export const APP_STORE_URL = "https://apps.apple.com/us/app/invoicor-invoice-maker/id6761840276";
 

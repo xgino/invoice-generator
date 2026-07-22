@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { APP_STORE_URL } from './Navbar'; // Adjust if needed
-import logo from '../assets/icon.png';
+import logo from '../assets/icon.jpg';
 
 // Import your data files safely
 import comparisonsData from '../data/comparisons.json';
